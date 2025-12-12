@@ -1,0 +1,25 @@
+# Bonfire Hub Scraper Dependencies
+# Install with: pip install -r requirements.txt
+
+# Web Scraping - Using Pydoll as specified
+pydoll-python>=2.14.0
+
+# Database - MongoDB
+pymongo>=4.6.0
+
+# HTTP/Async utilities
+aiohttp>=3.9.0
+aiofiles>=23.2.0
+requests>=2.31.0
+
+# Environment configuration
+python-dotenv>=1.0.0
+
+# Async support
+asyncio-compat>=0.1.0; python_version < "3.10"
+
+# Type hints support (for older Python versions)
+typing_extensions>=4.8.0
+
+# Websockets for browser communication
+websockets>=12.0
