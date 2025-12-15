@@ -1,688 +1,6 @@
 [
   {
     "organization_name": "Dallas Area Rapid Transit",
-    "bidding_id": "2096154",
-    "opportunity_name": "BOLT, 1/2\"\"-13 X 4, GRADE 8 - REF 2096154",
-    "description": "BOLT, 1/2\"\"-13 X 4, GRADE 8 - REF 2096154",
-    "application_instructions": {
-      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
-      "method": "Submit proposal through Bonfire Hub portal"
-    },
-    "deadline": {
-      "raw": "2025-12-11 20:00:00",
-      "iso_format": "2025-12-11T20:00:00",
-      "readable": "December 11, 2025 at 08:00 PM",
-      "has_passed": true
-    },
-    "status": "Open",
-    "days_remaining": 0,
-    "_document_id": "43f8eaba47d007f5a60db4a6c05358d2",
-    "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.700567",
-    "_opportunity_type": "open"
-  },
-  {
-    "organization_name": "Dallas Area Rapid Transit",
-    "bidding_id": "2096159",
-    "opportunity_name": "TAPE,CAUTION, (ROLLS) - REF 2096159",
-    "description": "TAPE,CAUTION, (ROLLS) - REF 2096159",
-    "application_instructions": {
-      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
-      "method": "Submit proposal through Bonfire Hub portal"
-    },
-    "deadline": {
-      "raw": "2025-12-11 20:00:00",
-      "iso_format": "2025-12-11T20:00:00",
-      "readable": "December 11, 2025 at 08:00 PM",
-      "has_passed": true
-    },
-    "status": "Open",
-    "days_remaining": 0,
-    "_document_id": "051a12b49d97e6dde507d8182aaa0141",
-    "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.700639",
-    "_opportunity_type": "open"
-  },
-  {
-    "organization_name": "Dallas Area Rapid Transit",
-    "bidding_id": "2096162",
-    "opportunity_name": "CLOSEOUT, FRT ASSY, MODINE- REF 2096162",
-    "description": "CLOSEOUT, FRT ASSY, MODINE- REF 2096162",
-    "application_instructions": {
-      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
-      "method": "Submit proposal through Bonfire Hub portal"
-    },
-    "deadline": {
-      "raw": "2025-12-11 20:00:00",
-      "iso_format": "2025-12-11T20:00:00",
-      "readable": "December 11, 2025 at 08:00 PM",
-      "has_passed": true
-    },
-    "status": "Open",
-    "days_remaining": 0,
-    "_document_id": "ce4b74c89859bdb36a24b50067b0e3e6",
-    "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.700674",
-    "_opportunity_type": "open"
-  },
-  {
-    "organization_name": "Dallas Area Rapid Transit",
-    "bidding_id": "2096163",
-    "opportunity_name": "ELECTRONIC SHUTOFF SOLENOID VALVE ASSY W/ 24V COIL - REF 2096163",
-    "description": "ELECTRONIC SHUTOFF SOLENOID VALVE ASSY W/ 24V COIL - REF 2096163",
-    "application_instructions": {
-      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
-      "method": "Submit proposal through Bonfire Hub portal"
-    },
-    "deadline": {
-      "raw": "2025-12-11 20:00:00",
-      "iso_format": "2025-12-11T20:00:00",
-      "readable": "December 11, 2025 at 08:00 PM",
-      "has_passed": true
-    },
-    "status": "Open",
-    "days_remaining": 0,
-    "_document_id": "3557aba8b080261bcd28c2bb180134c5",
-    "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.700705",
-    "_opportunity_type": "open"
-  },
-  {
-    "organization_name": "Dallas Area Rapid Transit",
-    "bidding_id": "2096168",
-    "opportunity_name": "VALVE ASSEMBLY QUICK-RELEASE - REF 2096168",
-    "description": "VALVE ASSEMBLY QUICK-RELEASE - REF 2096168",
-    "application_instructions": {
-      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
-      "method": "Submit proposal through Bonfire Hub portal"
-    },
-    "deadline": {
-      "raw": "2025-12-11 20:00:00",
-      "iso_format": "2025-12-11T20:00:00",
-      "readable": "December 11, 2025 at 08:00 PM",
-      "has_passed": true
-    },
-    "status": "Open",
-    "days_remaining": 0,
-    "_document_id": "fdab3b09c80024c985f66ecf280f4568",
-    "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.700733",
-    "_opportunity_type": "open"
-  },
-  {
-    "organization_name": "Dallas Area Rapid Transit",
-    "bidding_id": "2096169",
-    "opportunity_name": "BOLT TORX M18 X 15 X 60 - REF 2096169",
-    "description": "BOLT TORX M18 X 15 X 60 - REF 2096169",
-    "application_instructions": {
-      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
-      "method": "Submit proposal through Bonfire Hub portal"
-    },
-    "deadline": {
-      "raw": "2025-12-11 20:00:00",
-      "iso_format": "2025-12-11T20:00:00",
-      "readable": "December 11, 2025 at 08:00 PM",
-      "has_passed": true
-    },
-    "status": "Open",
-    "days_remaining": 0,
-    "_document_id": "0ae275a799108bef014055a9d27e4a50",
-    "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.700771",
-    "_opportunity_type": "open"
-  },
-  {
-    "organization_name": "Dallas Area Rapid Transit",
-    "bidding_id": "2096170",
-    "opportunity_name": "VALVE AUTO DRAIN - REF 2096170",
-    "description": "VALVE AUTO DRAIN - REF 2096170",
-    "application_instructions": {
-      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
-      "method": "Submit proposal through Bonfire Hub portal"
-    },
-    "deadline": {
-      "raw": "2025-12-11 20:00:00",
-      "iso_format": "2025-12-11T20:00:00",
-      "readable": "December 11, 2025 at 08:00 PM",
-      "has_passed": true
-    },
-    "status": "Open",
-    "days_remaining": 0,
-    "_document_id": "9583883f4978d5cdeac9a64dd5daac30",
-    "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.700796",
-    "_opportunity_type": "open"
-  },
-  {
-    "organization_name": "Dallas Area Rapid Transit",
-    "bidding_id": "2096171",
-    "opportunity_name": "TERMINAL,BLADE,MALE,16-14, FULLY INSULATED - REF 2096171",
-    "description": "TERMINAL,BLADE,MALE,16-14, FULLY INSULATED - REF 2096171",
-    "application_instructions": {
-      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
-      "method": "Submit proposal through Bonfire Hub portal"
-    },
-    "deadline": {
-      "raw": "2025-12-11 20:00:00",
-      "iso_format": "2025-12-11T20:00:00",
-      "readable": "December 11, 2025 at 08:00 PM",
-      "has_passed": true
-    },
-    "status": "Open",
-    "days_remaining": 0,
-    "_document_id": "c18aab841e865cc84f27ba8c88fe2c6d",
-    "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.700821",
-    "_opportunity_type": "open"
-  },
-  {
-    "organization_name": "Dallas Area Rapid Transit",
-    "bidding_id": "2096172",
-    "opportunity_name": "P-CLAMP CUSHION 1 1/2\" - REF 2096172",
-    "description": "P-CLAMP CUSHION 1 1/2\" - REF 2096172",
-    "application_instructions": {
-      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
-      "method": "Submit proposal through Bonfire Hub portal"
-    },
-    "deadline": {
-      "raw": "2025-12-11 20:00:00",
-      "iso_format": "2025-12-11T20:00:00",
-      "readable": "December 11, 2025 at 08:00 PM",
-      "has_passed": true
-    },
-    "status": "Open",
-    "days_remaining": 0,
-    "_document_id": "ab2fd729e42548c708ba9a45b860195b",
-    "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.700846",
-    "_opportunity_type": "open"
-  },
-  {
-    "organization_name": "Dallas Area Rapid Transit",
-    "bidding_id": "2096173",
-    "opportunity_name": "WASHER PUMP, 24V - REF 2096173",
-    "description": "WASHER PUMP, 24V - REF 2096173",
-    "application_instructions": {
-      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
-      "method": "Submit proposal through Bonfire Hub portal"
-    },
-    "deadline": {
-      "raw": "2025-12-11 20:00:00",
-      "iso_format": "2025-12-11T20:00:00",
-      "readable": "December 11, 2025 at 08:00 PM",
-      "has_passed": true
-    },
-    "status": "Open",
-    "days_remaining": 0,
-    "_document_id": "510a8ea93f83675d37c14e7166612b03",
-    "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.700871",
-    "_opportunity_type": "open"
-  },
-  {
-    "organization_name": "Dallas Area Rapid Transit",
-    "bidding_id": "2096223",
-    "opportunity_name": "ADHESIVE,CEMENT,32 OZ. CAN - REF 2096223",
-    "description": "ADHESIVE,CEMENT,32 OZ. CAN - REF 2096223",
-    "application_instructions": {
-      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
-      "method": "Submit proposal through Bonfire Hub portal"
-    },
-    "deadline": {
-      "raw": "2025-12-11 20:00:00",
-      "iso_format": "2025-12-11T20:00:00",
-      "readable": "December 11, 2025 at 08:00 PM",
-      "has_passed": true
-    },
-    "status": "Open",
-    "days_remaining": 0,
-    "_document_id": "4c8f28888955053975e9186f3e33ccbd",
-    "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.700897",
-    "_opportunity_type": "open"
-  },
-  {
-    "organization_name": "Dallas Area Rapid Transit",
-    "bidding_id": "2096239",
-    "opportunity_name": "SPRING MEMBER - REF 2096239",
-    "description": "SPRING MEMBER - REF 2096239",
-    "application_instructions": {
-      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
-      "method": "Submit proposal through Bonfire Hub portal"
-    },
-    "deadline": {
-      "raw": "2025-12-11 20:00:00",
-      "iso_format": "2025-12-11T20:00:00",
-      "readable": "December 11, 2025 at 08:00 PM",
-      "has_passed": true
-    },
-    "status": "Open",
-    "days_remaining": 0,
-    "_document_id": "5e20c9515d6eba66e89f3acc1256255d",
-    "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.700922",
-    "_opportunity_type": "open"
-  },
-  {
-    "organization_name": "Dallas Area Rapid Transit",
-    "bidding_id": "Req #2095071",
-    "opportunity_name": "BPO for Paratransit Coupon Books",
-    "description": "BPO for Paratransit Coupon Books",
-    "application_instructions": {
-      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
-      "method": "Submit proposal through Bonfire Hub portal"
-    },
-    "deadline": {
-      "raw": "2025-12-11 20:00:00",
-      "iso_format": "2025-12-11T20:00:00",
-      "readable": "December 11, 2025 at 08:00 PM",
-      "has_passed": true
-    },
-    "status": "Open",
-    "days_remaining": 0,
-    "_document_id": "c3f5b9e694d060ead2004c6d457fe88e",
-    "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.700947",
-    "_opportunity_type": "open"
-  },
-  {
-    "organization_name": "Dallas Area Rapid Transit",
-    "bidding_id": "Req #2094373",
-    "opportunity_name": "BPO for Tunnel AC Switchgear Retrofit",
-    "description": "BPO for Tunnel AC Switchgear Retrofit",
-    "application_instructions": {
-      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
-      "method": "Submit proposal through Bonfire Hub portal"
-    },
-    "deadline": {
-      "raw": "2025-12-12 20:00:00",
-      "iso_format": "2025-12-12T20:00:00",
-      "readable": "December 12, 2025 at 08:00 PM",
-      "has_passed": false
-    },
-    "status": "Open",
-    "days_remaining": 0,
-    "_document_id": "8c53e3013438311f292dfb8d4c804227",
-    "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.700973",
-    "_opportunity_type": "open"
-  },
-  {
-    "organization_name": "Dallas Area Rapid Transit",
-    "bidding_id": "209XXXX",
-    "opportunity_name": "Hazard Detection and Monitoring System",
-    "description": "Hazard Detection and Monitoring System",
-    "application_instructions": {
-      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
-      "method": "Submit proposal through Bonfire Hub portal"
-    },
-    "deadline": {
-      "raw": "2025-12-12 20:00:00",
-      "iso_format": "2025-12-12T20:00:00",
-      "readable": "December 12, 2025 at 08:00 PM",
-      "has_passed": false
-    },
-    "status": "Open",
-    "days_remaining": 0,
-    "_document_id": "db7bea09db5216f822423f3157b6b29e",
-    "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.700997",
-    "_opportunity_type": "open"
-  },
-  {
-    "organization_name": "Dallas Area Rapid Transit",
-    "bidding_id": "Req #2096098",
-    "opportunity_name": "BPO for Compressor Inspection Maintenance & Repair Services",
-    "description": "BPO for Compressor Inspection Maintenance & Repair Services",
-    "application_instructions": {
-      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
-      "method": "Submit proposal through Bonfire Hub portal"
-    },
-    "deadline": {
-      "raw": "2025-12-12 20:00:00",
-      "iso_format": "2025-12-12T20:00:00",
-      "readable": "December 12, 2025 at 08:00 PM",
-      "has_passed": false
-    },
-    "status": "Open",
-    "days_remaining": 0,
-    "_document_id": "b40c6bdbb642ca8acb92335270388373",
-    "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.701022",
-    "_opportunity_type": "open"
-  },
-  {
-    "organization_name": "Dallas Area Rapid Transit",
-    "bidding_id": "2096351",
-    "opportunity_name": "TOYO DENKI RAILWAY SERVICE - PN: TD10789 | *NEW* INVERTER UNIT | ref 2096351",
-    "description": "TOYO DENKI RAILWAY SERVICE - PN: TD10789 | *NEW* INVERTER UNIT | ref 2096351",
-    "application_instructions": {
-      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
-      "method": "Submit proposal through Bonfire Hub portal"
-    },
-    "deadline": {
-      "raw": "2025-12-12 20:00:00",
-      "iso_format": "2025-12-12T20:00:00",
-      "readable": "December 12, 2025 at 08:00 PM",
-      "has_passed": false
-    },
-    "status": "Open",
-    "days_remaining": 0,
-    "_document_id": "adc2617e125383a6616481016c85642c",
-    "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.701047",
-    "_opportunity_type": "open"
-  },
-  {
-    "organization_name": "Dallas Area Rapid Transit",
-    "bidding_id": "2096174",
-    "opportunity_name": "AEG - PN: 1D48078G02 | RESISTOR, R-5 | ref 2096174",
-    "description": "AEG - PN: 1D48078G02 | RESISTOR, R-5 | ref 2096174",
-    "application_instructions": {
-      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
-      "method": "Submit proposal through Bonfire Hub portal"
-    },
-    "deadline": {
-      "raw": "2025-12-12 20:00:00",
-      "iso_format": "2025-12-12T20:00:00",
-      "readable": "December 12, 2025 at 08:00 PM",
-      "has_passed": false
-    },
-    "status": "Open",
-    "days_remaining": 0,
-    "_document_id": "436814c90e1e326143b5ac6a59f191bb",
-    "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.701071",
-    "_opportunity_type": "open"
-  },
-  {
-    "organization_name": "Dallas Area Rapid Transit",
-    "bidding_id": "2096258",
-    "opportunity_name": "AEG - p/n: 4D02528G01 | ROD,ASSY.,TIE,FIXED END | ref 2096258",
-    "description": "AEG - p/n: 4D02528G01 | ROD,ASSY.,TIE,FIXED END | ref 2096258",
-    "application_instructions": {
-      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
-      "method": "Submit proposal through Bonfire Hub portal"
-    },
-    "deadline": {
-      "raw": "2025-12-12 20:00:00",
-      "iso_format": "2025-12-12T20:00:00",
-      "readable": "December 12, 2025 at 08:00 PM",
-      "has_passed": false
-    },
-    "status": "Open",
-    "days_remaining": 0,
-    "_document_id": "cb9933e410aeeea29abb309fbfa8b87b",
-    "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.701095",
-    "_opportunity_type": "open"
-  },
-  {
-    "organization_name": "Dallas Area Rapid Transit",
-    "bidding_id": "2096419",
-    "opportunity_name": "AEG - p/n: 6965C51G03 | COVER ASSY HOLDER BRUSH GROUND | ref 2096419",
-    "description": "AEG - p/n: 6965C51G03 | COVER ASSY HOLDER BRUSH GROUND | ref 2096419",
-    "application_instructions": {
-      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
-      "method": "Submit proposal through Bonfire Hub portal"
-    },
-    "deadline": {
-      "raw": "2025-12-12 20:00:00",
-      "iso_format": "2025-12-12T20:00:00",
-      "readable": "December 12, 2025 at 08:00 PM",
-      "has_passed": false
-    },
-    "status": "Open",
-    "days_remaining": 0,
-    "_document_id": "446c31568e5da31eb5b0b23e02bbbd25",
-    "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.701119",
-    "_opportunity_type": "open"
-  },
-  {
-    "organization_name": "Dallas Area Rapid Transit",
-    "bidding_id": "Req #2096177",
-    "opportunity_name": "BPO for Coffee and Supplies",
-    "description": "BPO for Coffee and Supplies",
-    "application_instructions": {
-      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
-      "method": "Submit proposal through Bonfire Hub portal"
-    },
-    "deadline": {
-      "raw": "2025-12-12 20:00:00",
-      "iso_format": "2025-12-12T20:00:00",
-      "readable": "December 12, 2025 at 08:00 PM",
-      "has_passed": false
-    },
-    "status": "Open",
-    "days_remaining": 0,
-    "_document_id": "08f07cad34f7688bcd9c8e5efbc0e8f8",
-    "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.701143",
-    "_opportunity_type": "open"
-  },
-  {
-    "organization_name": "Dallas Area Rapid Transit",
-    "bidding_id": "2096224",
-    "opportunity_name": "CLAMP,HOSE,CONSTANT TORQUE 5/8\"\" WIDE,2 1/4\"-3 1/8\" - REF 2096224",
-    "description": "CLAMP,HOSE,CONSTANT TORQUE 5/8\"\" WIDE,2 1/4\"-3 1/8\" - REF 2096224",
-    "application_instructions": {
-      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
-      "method": "Submit proposal through Bonfire Hub portal"
-    },
-    "deadline": {
-      "raw": "2025-12-12 20:00:00",
-      "iso_format": "2025-12-12T20:00:00",
-      "readable": "December 12, 2025 at 08:00 PM",
-      "has_passed": false
-    },
-    "status": "Open",
-    "days_remaining": 0,
-    "_document_id": "69503364cfbacf2ba27c035c42800011",
-    "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.701169",
-    "_opportunity_type": "open"
-  },
-  {
-    "organization_name": "Dallas Area Rapid Transit",
-    "bidding_id": "2096225",
-    "opportunity_name": "MIRROR GLASS, CONVEX HEATED - REF 2096225",
-    "description": "MIRROR GLASS, CONVEX HEATED - REF 2096225",
-    "application_instructions": {
-      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
-      "method": "Submit proposal through Bonfire Hub portal"
-    },
-    "deadline": {
-      "raw": "2025-12-12 20:00:00",
-      "iso_format": "2025-12-12T20:00:00",
-      "readable": "December 12, 2025 at 08:00 PM",
-      "has_passed": false
-    },
-    "status": "Open",
-    "days_remaining": 0,
-    "_document_id": "8ee720a604424d62b37f27e2b80f828c",
-    "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.701193",
-    "_opportunity_type": "open"
-  },
-  {
-    "organization_name": "Dallas Area Rapid Transit",
-    "bidding_id": "2096229",
-    "opportunity_name": "CONN MALE 1/4T\" X 1/4P\" - REF 2096229",
-    "description": "CONN MALE 1/4T\" X 1/4P\" - REF 2096229",
-    "application_instructions": {
-      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
-      "method": "Submit proposal through Bonfire Hub portal"
-    },
-    "deadline": {
-      "raw": "2025-12-12 20:00:00",
-      "iso_format": "2025-12-12T20:00:00",
-      "readable": "December 12, 2025 at 08:00 PM",
-      "has_passed": false
-    },
-    "status": "Open",
-    "days_remaining": 0,
-    "_document_id": "144ecb8d49558cc317d0ab012018cbcc",
-    "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.701218",
-    "_opportunity_type": "open"
-  },
-  {
-    "organization_name": "Dallas Area Rapid Transit",
-    "bidding_id": "2096230",
-    "opportunity_name": "CABLE, VIDEO INFOTAINMENT - REF 2096230",
-    "description": "CABLE, VIDEO INFOTAINMENT - REF 2096230",
-    "application_instructions": {
-      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
-      "method": "Submit proposal through Bonfire Hub portal"
-    },
-    "deadline": {
-      "raw": "2025-12-12 20:00:00",
-      "iso_format": "2025-12-12T20:00:00",
-      "readable": "December 12, 2025 at 08:00 PM",
-      "has_passed": false
-    },
-    "status": "Open",
-    "days_remaining": 0,
-    "_document_id": "609dd06ae31031c6ee0471a4e9bc8a37",
-    "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.701244",
-    "_opportunity_type": "open"
-  },
-  {
-    "organization_name": "Dallas Area Rapid Transit",
-    "bidding_id": "2096237",
-    "opportunity_name": "WIRE HARNESS RADIATOR ,FANS GEN 2 - REF 2096237",
-    "description": "WIRE HARNESS RADIATOR ,FANS GEN 2 - REF 2096237",
-    "application_instructions": {
-      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
-      "method": "Submit proposal through Bonfire Hub portal"
-    },
-    "deadline": {
-      "raw": "2025-12-12 20:00:00",
-      "iso_format": "2025-12-12T20:00:00",
-      "readable": "December 12, 2025 at 08:00 PM",
-      "has_passed": false
-    },
-    "status": "Open",
-    "days_remaining": 0,
-    "_document_id": "ce9e38a3274461949e22ce2be0533ffa",
-    "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.701268",
-    "_opportunity_type": "open"
-  },
-  {
-    "organization_name": "Dallas Area Rapid Transit",
-    "bidding_id": "2096238",
-    "opportunity_name": "CLOSEOUT, FRONT, MODINE ,LFW - REF 2096238",
-    "description": "CLOSEOUT, FRONT, MODINE ,LFW - REF 2096238",
-    "application_instructions": {
-      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
-      "method": "Submit proposal through Bonfire Hub portal"
-    },
-    "deadline": {
-      "raw": "2025-12-12 20:00:00",
-      "iso_format": "2025-12-12T20:00:00",
-      "readable": "December 12, 2025 at 08:00 PM",
-      "has_passed": false
-    },
-    "status": "Open",
-    "days_remaining": 0,
-    "_document_id": "d16e0871a8df35bd475b49520770548b",
-    "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.701293",
-    "_opportunity_type": "open"
-  },
-  {
-    "organization_name": "Dallas Area Rapid Transit",
-    "bidding_id": "2096241",
-    "opportunity_name": "SENSOR ASSY,SPEED - REF 2096241",
-    "description": "SENSOR ASSY,SPEED - REF 2096241",
-    "application_instructions": {
-      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
-      "method": "Submit proposal through Bonfire Hub portal"
-    },
-    "deadline": {
-      "raw": "2025-12-12 20:00:00",
-      "iso_format": "2025-12-12T20:00:00",
-      "readable": "December 12, 2025 at 08:00 PM",
-      "has_passed": false
-    },
-    "status": "Open",
-    "days_remaining": 0,
-    "_document_id": "39e5a6a59ab472f34c2f44f195c0aa38",
-    "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.701323",
-    "_opportunity_type": "open"
-  },
-  {
-    "organization_name": "Dallas Area Rapid Transit",
-    "bidding_id": "2096255",
-    "opportunity_name": "NUT,HEX,ELASTIC STOP,1/4\"\"-20,GRD 8,YZ (BOX OF 100) - REF 2096255",
-    "description": "NUT,HEX,ELASTIC STOP,1/4\"\"-20,GRD 8,YZ (BOX OF 100) - REF 2096255",
-    "application_instructions": {
-      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
-      "method": "Submit proposal through Bonfire Hub portal"
-    },
-    "deadline": {
-      "raw": "2025-12-12 20:00:00",
-      "iso_format": "2025-12-12T20:00:00",
-      "readable": "December 12, 2025 at 08:00 PM",
-      "has_passed": false
-    },
-    "status": "Open",
-    "days_remaining": 0,
-    "_document_id": "ba80a8c11e29730180b549537114f37d",
-    "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.701347",
-    "_opportunity_type": "open"
-  },
-  {
-    "organization_name": "Dallas Area Rapid Transit",
-    "bidding_id": "2096538",
-    "opportunity_name": "SUN SHADE ,SIDE WINDOW | 2096538",
-    "description": "SUN SHADE ,SIDE WINDOW | 2096538",
-    "application_instructions": {
-      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
-      "method": "Submit proposal through Bonfire Hub portal"
-    },
-    "deadline": {
-      "raw": "2025-12-12 20:00:00",
-      "iso_format": "2025-12-12T20:00:00",
-      "readable": "December 12, 2025 at 08:00 PM",
-      "has_passed": false
-    },
-    "status": "Open",
-    "days_remaining": 0,
-    "_document_id": "2edda5ccf570253e1730cd9307eab34e",
-    "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.701370",
-    "_opportunity_type": "open"
-  },
-  {
-    "organization_name": "Dallas Area Rapid Transit",
-    "bidding_id": "Req #2095996",
-    "opportunity_name": "BPO for 4th Avenue Fire Sprinkler Repair",
-    "description": "BPO for 4th Avenue Fire Sprinkler Repair",
-    "application_instructions": {
-      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
-      "method": "Submit proposal through Bonfire Hub portal"
-    },
-    "deadline": {
-      "raw": "2025-12-12 20:00:00",
-      "iso_format": "2025-12-12T20:00:00",
-      "readable": "December 12, 2025 at 08:00 PM",
-      "has_passed": false
-    },
-    "status": "Open",
-    "days_remaining": 0,
-    "_document_id": "f7a99a422d32a18a3e71de4027c43d8e",
-    "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.701398",
-    "_opportunity_type": "open"
-  },
-  {
-    "organization_name": "Dallas Area Rapid Transit",
     "bidding_id": "B2095743",
     "opportunity_name": "Armored Railroad Signal Cable",
     "description": "Armored Railroad Signal Cable",
@@ -694,13 +12,13 @@
       "raw": "2025-12-15 17:00:00",
       "iso_format": "2025-12-15T17:00:00",
       "readable": "December 15, 2025 at 05:00 PM",
-      "has_passed": false
+      "has_passed": true
     },
     "status": "Open",
-    "days_remaining": 3,
+    "days_remaining": 0,
     "_document_id": "38a1d0b9fbf0c3db4bdc73806adf14a7",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.701422",
+    "_scraped_at": "2025-12-15T21:03:04.822497",
     "_opportunity_type": "open"
   },
   {
@@ -716,13 +34,13 @@
       "raw": "2025-12-15 20:00:00",
       "iso_format": "2025-12-15T20:00:00",
       "readable": "December 15, 2025 at 08:00 PM",
-      "has_passed": false
+      "has_passed": true
     },
     "status": "Open",
-    "days_remaining": 3,
+    "days_remaining": 0,
     "_document_id": "72c3b25eb2ef4bf9bf0766fdfbe4d1f9",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.701454",
+    "_scraped_at": "2025-12-15T21:03:04.822580",
     "_opportunity_type": "open"
   },
   {
@@ -738,13 +56,13 @@
       "raw": "2025-12-15 20:00:00",
       "iso_format": "2025-12-15T20:00:00",
       "readable": "December 15, 2025 at 08:00 PM",
-      "has_passed": false
+      "has_passed": true
     },
     "status": "Open",
-    "days_remaining": 3,
+    "days_remaining": 0,
     "_document_id": "52093242a780106a35b8cba680d09f7a",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.701478",
+    "_scraped_at": "2025-12-15T21:03:04.822643",
     "_opportunity_type": "open"
   },
   {
@@ -760,13 +78,13 @@
       "raw": "2025-12-15 20:00:00",
       "iso_format": "2025-12-15T20:00:00",
       "readable": "December 15, 2025 at 08:00 PM",
-      "has_passed": false
+      "has_passed": true
     },
     "status": "Open",
-    "days_remaining": 3,
+    "days_remaining": 0,
     "_document_id": "0ff75cb25266728dd56a7322e6170198",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.701502",
+    "_scraped_at": "2025-12-15T21:03:04.822708",
     "_opportunity_type": "open"
   },
   {
@@ -782,13 +100,13 @@
       "raw": "2025-12-15 20:00:00",
       "iso_format": "2025-12-15T20:00:00",
       "readable": "December 15, 2025 at 08:00 PM",
-      "has_passed": false
+      "has_passed": true
     },
     "status": "Open",
-    "days_remaining": 3,
+    "days_remaining": 0,
     "_document_id": "8215e62f2b877e310921832583499bea",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.701527",
+    "_scraped_at": "2025-12-15T21:03:04.822761",
     "_opportunity_type": "open"
   },
   {
@@ -804,13 +122,13 @@
       "raw": "2025-12-15 20:00:00",
       "iso_format": "2025-12-15T20:00:00",
       "readable": "December 15, 2025 at 08:00 PM",
-      "has_passed": false
+      "has_passed": true
     },
     "status": "Open",
-    "days_remaining": 3,
+    "days_remaining": 0,
     "_document_id": "0f3b2e9db369469c06d7d6f0daab2593",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.701551",
+    "_scraped_at": "2025-12-15T21:03:04.822815",
     "_opportunity_type": "open"
   },
   {
@@ -826,13 +144,13 @@
       "raw": "2025-12-15 20:00:00",
       "iso_format": "2025-12-15T20:00:00",
       "readable": "December 15, 2025 at 08:00 PM",
-      "has_passed": false
+      "has_passed": true
     },
     "status": "Open",
-    "days_remaining": 3,
+    "days_remaining": 0,
     "_document_id": "8777044bf7b36c8cfeb52452efa60e26",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.701588",
+    "_scraped_at": "2025-12-15T21:03:04.822868",
     "_opportunity_type": "open"
   },
   {
@@ -848,13 +166,13 @@
       "raw": "2025-12-15 20:00:00",
       "iso_format": "2025-12-15T20:00:00",
       "readable": "December 15, 2025 at 08:00 PM",
-      "has_passed": false
+      "has_passed": true
     },
     "status": "Open",
-    "days_remaining": 3,
+    "days_remaining": 0,
     "_document_id": "cbd0803506ad1357df4c20101a6d913f",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.701623",
+    "_scraped_at": "2025-12-15T21:03:04.822922",
     "_opportunity_type": "open"
   },
   {
@@ -870,13 +188,13 @@
       "raw": "2025-12-15 20:00:00",
       "iso_format": "2025-12-15T20:00:00",
       "readable": "December 15, 2025 at 08:00 PM",
-      "has_passed": false
+      "has_passed": true
     },
     "status": "Open",
-    "days_remaining": 3,
+    "days_remaining": 0,
     "_document_id": "255ec5c28ad0c70f74dff28e98d7adb8",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.701650",
+    "_scraped_at": "2025-12-15T21:03:04.822974",
     "_opportunity_type": "open"
   },
   {
@@ -892,13 +210,13 @@
       "raw": "2025-12-15 20:00:00",
       "iso_format": "2025-12-15T20:00:00",
       "readable": "December 15, 2025 at 08:00 PM",
-      "has_passed": false
+      "has_passed": true
     },
     "status": "Open",
-    "days_remaining": 3,
+    "days_remaining": 0,
     "_document_id": "8ded3dc895207347ffd82d532daaf425",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.701674",
+    "_scraped_at": "2025-12-15T21:03:04.823029",
     "_opportunity_type": "open"
   },
   {
@@ -914,13 +232,13 @@
       "raw": "2025-12-15 20:00:00",
       "iso_format": "2025-12-15T20:00:00",
       "readable": "December 15, 2025 at 08:00 PM",
-      "has_passed": false
+      "has_passed": true
     },
     "status": "Open",
-    "days_remaining": 3,
+    "days_remaining": 0,
     "_document_id": "bec48cf35b3b57770f35d487c053e3d2",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.701699",
+    "_scraped_at": "2025-12-15T21:03:04.823085",
     "_opportunity_type": "open"
   },
   {
@@ -936,13 +254,13 @@
       "raw": "2025-12-15 20:00:00",
       "iso_format": "2025-12-15T20:00:00",
       "readable": "December 15, 2025 at 08:00 PM",
-      "has_passed": false
+      "has_passed": true
     },
     "status": "Open",
-    "days_remaining": 3,
+    "days_remaining": 0,
     "_document_id": "163b1b46c810f806cf0a2e0aca1674ef",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.701722",
+    "_scraped_at": "2025-12-15T21:03:04.823143",
     "_opportunity_type": "open"
   },
   {
@@ -961,10 +279,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 4,
+    "days_remaining": 0,
     "_document_id": "9805c141e8cdab995d4805689ace2f44",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.701746",
+    "_scraped_at": "2025-12-15T21:03:04.823180",
     "_opportunity_type": "open"
   },
   {
@@ -983,10 +301,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 4,
+    "days_remaining": 0,
     "_document_id": "ecd5aa3cbf947934dd334fdb63eb99fe",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.701770",
+    "_scraped_at": "2025-12-15T21:03:04.823214",
     "_opportunity_type": "open"
   },
   {
@@ -1005,10 +323,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 4,
+    "days_remaining": 0,
     "_document_id": "d4d78eb515892467268406e9e76cda31",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.701794",
+    "_scraped_at": "2025-12-15T21:03:04.823247",
     "_opportunity_type": "open"
   },
   {
@@ -1027,10 +345,32 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 4,
+    "days_remaining": 0,
     "_document_id": "48ae82efb4b6f82bcf7e21277bf07d85",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.701818",
+    "_scraped_at": "2025-12-15T21:03:04.823281",
+    "_opportunity_type": "open"
+  },
+  {
+    "organization_name": "Dallas Area Rapid Transit",
+    "bidding_id": "2096267",
+    "opportunity_name": "MIRROR TOP FLAT - REF 2096267",
+    "description": "MIRROR TOP FLAT - REF 2096267",
+    "application_instructions": {
+      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
+      "method": "Submit proposal through Bonfire Hub portal"
+    },
+    "deadline": {
+      "raw": "2025-12-16 20:00:00",
+      "iso_format": "2025-12-16T20:00:00",
+      "readable": "December 16, 2025 at 08:00 PM",
+      "has_passed": false
+    },
+    "status": "Open",
+    "days_remaining": 0,
+    "_document_id": "507f977ce6a4375e48877551a799f428",
+    "_source_url": "https://dart.bonfirehub.com",
+    "_scraped_at": "2025-12-15T21:03:04.823314",
     "_opportunity_type": "open"
   },
   {
@@ -1049,10 +389,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 4,
+    "days_remaining": 0,
     "_document_id": "272623925c25a9858f3b7c909a54b95b",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.701842",
+    "_scraped_at": "2025-12-15T21:03:04.823347",
     "_opportunity_type": "open"
   },
   {
@@ -1071,10 +411,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 4,
+    "days_remaining": 0,
     "_document_id": "05f2b4c8391df0568bb61aa9fbb69f50",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.701866",
+    "_scraped_at": "2025-12-15T21:03:04.823380",
     "_opportunity_type": "open"
   },
   {
@@ -1093,10 +433,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 4,
+    "days_remaining": 0,
     "_document_id": "ffb38dc9f9d789dd0c9ec559269ff565",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.701901",
+    "_scraped_at": "2025-12-15T21:03:04.823414",
     "_opportunity_type": "open"
   },
   {
@@ -1115,10 +455,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 4,
+    "days_remaining": 0,
     "_document_id": "29c2c756426ae8416268e7dffeacbecf",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.701925",
+    "_scraped_at": "2025-12-15T21:03:04.823447",
     "_opportunity_type": "open"
   },
   {
@@ -1137,10 +477,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 4,
+    "days_remaining": 0,
     "_document_id": "4b54f0d605981f0bba888043a7bafa74",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.701949",
+    "_scraped_at": "2025-12-15T21:03:04.823480",
     "_opportunity_type": "open"
   },
   {
@@ -1159,10 +499,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 4,
+    "days_remaining": 0,
     "_document_id": "d8324a562079a29bd7d2c6299542c3bd",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.701975",
+    "_scraped_at": "2025-12-15T21:03:04.823513",
     "_opportunity_type": "open"
   },
   {
@@ -1181,10 +521,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 4,
+    "days_remaining": 0,
     "_document_id": "e4310fd2d2c915986d41a6b60f725a79",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.701999",
+    "_scraped_at": "2025-12-15T21:03:04.823545",
     "_opportunity_type": "open"
   },
   {
@@ -1203,10 +543,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 4,
+    "days_remaining": 0,
     "_document_id": "4230c4d5199c6aef32c3778a2813a461",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.702023",
+    "_scraped_at": "2025-12-15T21:03:04.823578",
     "_opportunity_type": "open"
   },
   {
@@ -1225,10 +565,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 4,
+    "days_remaining": 0,
     "_document_id": "f58b361180165ea7d9b93b164b665388",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.702046",
+    "_scraped_at": "2025-12-15T21:03:04.823611",
     "_opportunity_type": "open"
   },
   {
@@ -1247,10 +587,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 4,
+    "days_remaining": 0,
     "_document_id": "6376737394262f3a74f3f23607d47b62",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.702070",
+    "_scraped_at": "2025-12-15T21:03:04.823644",
     "_opportunity_type": "open"
   },
   {
@@ -1269,10 +609,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 4,
+    "days_remaining": 0,
     "_document_id": "f11e16d77349d109be8292dac0f5a574",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.702095",
+    "_scraped_at": "2025-12-15T21:03:04.823684",
     "_opportunity_type": "open"
   },
   {
@@ -1291,10 +631,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 4,
+    "days_remaining": 0,
     "_document_id": "2682452e58c48f574f2fce99488ede29",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.702119",
+    "_scraped_at": "2025-12-15T21:03:04.823732",
     "_opportunity_type": "open"
   },
   {
@@ -1313,10 +653,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 4,
+    "days_remaining": 0,
     "_document_id": "4ce7407a7d6a92c1444f5cb13c52704b",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.702142",
+    "_scraped_at": "2025-12-15T21:03:04.823768",
     "_opportunity_type": "open"
   },
   {
@@ -1335,10 +675,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 4,
+    "days_remaining": 0,
     "_document_id": "5992a25b60ec213bec5afda2e8d5c425",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.702166",
+    "_scraped_at": "2025-12-15T21:03:04.823801",
     "_opportunity_type": "open"
   },
   {
@@ -1357,10 +697,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 4,
+    "days_remaining": 0,
     "_document_id": "eb2e05c133682464c80ceecff63c372e",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.702190",
+    "_scraped_at": "2025-12-15T21:03:04.823834",
     "_opportunity_type": "open"
   },
   {
@@ -1379,10 +719,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 4,
+    "days_remaining": 0,
     "_document_id": "6744e05f7cad9eac4f2c1b1d35b840b4",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.702214",
+    "_scraped_at": "2025-12-15T21:03:04.823869",
     "_opportunity_type": "open"
   },
   {
@@ -1401,10 +741,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 4,
+    "days_remaining": 0,
     "_document_id": "2561c43f35fb17d5779cc87a7f7bb3e1",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.702238",
+    "_scraped_at": "2025-12-15T21:03:04.823903",
     "_opportunity_type": "open"
   },
   {
@@ -1423,10 +763,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 4,
+    "days_remaining": 0,
     "_document_id": "778ab6d986fd3c313720806e08135477",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.702261",
+    "_scraped_at": "2025-12-15T21:03:04.823936",
     "_opportunity_type": "open"
   },
   {
@@ -1445,10 +785,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 4,
+    "days_remaining": 0,
     "_document_id": "62e4a9240b3ff4962b359712f4018d64",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.702285",
+    "_scraped_at": "2025-12-15T21:03:04.823968",
     "_opportunity_type": "open"
   },
   {
@@ -1467,10 +807,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 4,
+    "days_remaining": 0,
     "_document_id": "9df6960949f3e4d1b6c642152848826c",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.702309",
+    "_scraped_at": "2025-12-15T21:03:04.824001",
     "_opportunity_type": "open"
   },
   {
@@ -1489,10 +829,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 4,
+    "days_remaining": 0,
     "_document_id": "f177780de848aa5ef84bce35510486fb",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.702332",
+    "_scraped_at": "2025-12-15T21:03:04.824035",
     "_opportunity_type": "open"
   },
   {
@@ -1511,10 +851,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 4,
+    "days_remaining": 0,
     "_document_id": "561cb0685e91899249dedef737284901",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.702356",
+    "_scraped_at": "2025-12-15T21:03:04.824068",
     "_opportunity_type": "open"
   },
   {
@@ -1533,10 +873,120 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 4,
+    "days_remaining": 0,
     "_document_id": "22d8e64b4cd6114b0d0c29e4e5bc30ac",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.702380",
+    "_scraped_at": "2025-12-15T21:03:04.824101",
+    "_opportunity_type": "open"
+  },
+  {
+    "organization_name": "Dallas Area Rapid Transit",
+    "bidding_id": "2096279",
+    "opportunity_name": "KIT,GLASS CLIP,ENTRANCE DOOR - REF 2096279",
+    "description": "KIT,GLASS CLIP,ENTRANCE DOOR - REF 2096279",
+    "application_instructions": {
+      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
+      "method": "Submit proposal through Bonfire Hub portal"
+    },
+    "deadline": {
+      "raw": "2025-12-16 20:00:00",
+      "iso_format": "2025-12-16T20:00:00",
+      "readable": "December 16, 2025 at 08:00 PM",
+      "has_passed": false
+    },
+    "status": "Open",
+    "days_remaining": 0,
+    "_document_id": "f5bf4dd2d52905b9727fedce80da4062",
+    "_source_url": "https://dart.bonfirehub.com",
+    "_scraped_at": "2025-12-15T21:03:04.824134",
+    "_opportunity_type": "open"
+  },
+  {
+    "organization_name": "Dallas Area Rapid Transit",
+    "bidding_id": "2096270",
+    "opportunity_name": "GAS SPRING - REF 2096270",
+    "description": "GAS SPRING - REF 2096270",
+    "application_instructions": {
+      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
+      "method": "Submit proposal through Bonfire Hub portal"
+    },
+    "deadline": {
+      "raw": "2025-12-17 20:00:00",
+      "iso_format": "2025-12-17T20:00:00",
+      "readable": "December 17, 2025 at 08:00 PM",
+      "has_passed": false
+    },
+    "status": "Open",
+    "days_remaining": 1,
+    "_document_id": "752bfdac3c23ae61eb5b81b9a7f79dbe",
+    "_source_url": "https://dart.bonfirehub.com",
+    "_scraped_at": "2025-12-15T21:03:04.824167",
+    "_opportunity_type": "open"
+  },
+  {
+    "organization_name": "Dallas Area Rapid Transit",
+    "bidding_id": "2096272",
+    "opportunity_name": "COUPLING, SPIDER - REF 2096272",
+    "description": "COUPLING, SPIDER - REF 2096272",
+    "application_instructions": {
+      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
+      "method": "Submit proposal through Bonfire Hub portal"
+    },
+    "deadline": {
+      "raw": "2025-12-17 20:00:00",
+      "iso_format": "2025-12-17T20:00:00",
+      "readable": "December 17, 2025 at 08:00 PM",
+      "has_passed": false
+    },
+    "status": "Open",
+    "days_remaining": 1,
+    "_document_id": "fe6064621d737825597aa9720115d243",
+    "_source_url": "https://dart.bonfirehub.com",
+    "_scraped_at": "2025-12-15T21:03:04.824199",
+    "_opportunity_type": "open"
+  },
+  {
+    "organization_name": "Dallas Area Rapid Transit",
+    "bidding_id": "2096276",
+    "opportunity_name": "RESPIRATOR HALF-MASK LARGE (DUAL CART. NOT INCLUDED) - REF 2096276",
+    "description": "RESPIRATOR HALF-MASK LARGE (DUAL CART. NOT INCLUDED) - REF 2096276",
+    "application_instructions": {
+      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
+      "method": "Submit proposal through Bonfire Hub portal"
+    },
+    "deadline": {
+      "raw": "2025-12-17 20:00:00",
+      "iso_format": "2025-12-17T20:00:00",
+      "readable": "December 17, 2025 at 08:00 PM",
+      "has_passed": false
+    },
+    "status": "Open",
+    "days_remaining": 1,
+    "_document_id": "741bc575ac18249c26aed676ac3e2e32",
+    "_source_url": "https://dart.bonfirehub.com",
+    "_scraped_at": "2025-12-15T21:03:04.824231",
+    "_opportunity_type": "open"
+  },
+  {
+    "organization_name": "Dallas Area Rapid Transit",
+    "bidding_id": "2096277",
+    "opportunity_name": "GAUGE, LIQUID FILLED 0-60 PSI - REF 2096277",
+    "description": "GAUGE, LIQUID FILLED 0-60 PSI - REF 2096277",
+    "application_instructions": {
+      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
+      "method": "Submit proposal through Bonfire Hub portal"
+    },
+    "deadline": {
+      "raw": "2025-12-17 20:00:00",
+      "iso_format": "2025-12-17T20:00:00",
+      "readable": "December 17, 2025 at 08:00 PM",
+      "has_passed": false
+    },
+    "status": "Open",
+    "days_remaining": 1,
+    "_document_id": "446eee73bf1c7e215d6bc1499e18d8e6",
+    "_source_url": "https://dart.bonfirehub.com",
+    "_scraped_at": "2025-12-15T21:03:04.824264",
     "_opportunity_type": "open"
   },
   {
@@ -1555,10 +1005,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "5beeb6793db00b48e8904d61b67a9cf5",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.702404",
+    "_scraped_at": "2025-12-15T21:03:04.824297",
     "_opportunity_type": "open"
   },
   {
@@ -1577,10 +1027,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "31508df0a8fbd79372b9e09206bc20cd",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.702427",
+    "_scraped_at": "2025-12-15T21:03:04.824330",
     "_opportunity_type": "open"
   },
   {
@@ -1599,10 +1049,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "6c063a50622463b29a52089bedaf76a3",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.702452",
+    "_scraped_at": "2025-12-15T21:03:04.824362",
     "_opportunity_type": "open"
   },
   {
@@ -1621,10 +1071,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "f954bc6ff9ec641b8f551e82c6f0ea54",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.702476",
+    "_scraped_at": "2025-12-15T21:03:04.824395",
     "_opportunity_type": "open"
   },
   {
@@ -1643,10 +1093,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "d2f90bc382dee2e2ee77883be49413c4",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.702499",
+    "_scraped_at": "2025-12-15T21:03:04.824427",
     "_opportunity_type": "open"
   },
   {
@@ -1665,10 +1115,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "ed53d06d55e08ce5d274d86d8de5bb95",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.702523",
+    "_scraped_at": "2025-12-15T21:03:04.824459",
     "_opportunity_type": "open"
   },
   {
@@ -1687,10 +1137,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "aa56850728784e8e8aeed8c0749a9300",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.702547",
+    "_scraped_at": "2025-12-15T21:03:04.824492",
     "_opportunity_type": "open"
   },
   {
@@ -1709,10 +1159,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "3e6665b7db24de76fad2770f585e4e83",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.702596",
+    "_scraped_at": "2025-12-15T21:03:04.824524",
     "_opportunity_type": "open"
   },
   {
@@ -1731,10 +1181,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "6f252501d87d93fd8a586fae4987a3b7",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.702629",
+    "_scraped_at": "2025-12-15T21:03:04.824559",
     "_opportunity_type": "open"
   },
   {
@@ -1753,10 +1203,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "92f82a7c757f9a11f4b7cecd91b7e094",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.702654",
+    "_scraped_at": "2025-12-15T21:03:04.824592",
     "_opportunity_type": "open"
   },
   {
@@ -1775,10 +1225,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "99e5166666a90a407a1848fbad5de481",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.702679",
+    "_scraped_at": "2025-12-15T21:03:04.824624",
     "_opportunity_type": "open"
   },
   {
@@ -1797,10 +1247,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "76b07c6c72f9b3b84b727de386bbacd2",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.702704",
+    "_scraped_at": "2025-12-15T21:03:04.824656",
     "_opportunity_type": "open"
   },
   {
@@ -1819,10 +1269,32 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "9aba9e094bcfc2a7f145805407e73cd2",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.702729",
+    "_scraped_at": "2025-12-15T21:03:04.824695",
+    "_opportunity_type": "open"
+  },
+  {
+    "organization_name": "Dallas Area Rapid Transit",
+    "bidding_id": "2096280",
+    "opportunity_name": "FILTER, 30\"\" X 84\"\" , PAINT BOOTH , AAF# 347-21-30A84A - REF 2096280",
+    "description": "FILTER, 30\"\" X 84\"\" , PAINT BOOTH , AAF# 347-21-30A84A - REF 2096280",
+    "application_instructions": {
+      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
+      "method": "Submit proposal through Bonfire Hub portal"
+    },
+    "deadline": {
+      "raw": "2025-12-17 20:00:00",
+      "iso_format": "2025-12-17T20:00:00",
+      "readable": "December 17, 2025 at 08:00 PM",
+      "has_passed": false
+    },
+    "status": "Open",
+    "days_remaining": 1,
+    "_document_id": "f788292a969b0381494ef623929b72b3",
+    "_source_url": "https://dart.bonfirehub.com",
+    "_scraped_at": "2025-12-15T21:03:04.824727",
     "_opportunity_type": "open"
   },
   {
@@ -1841,10 +1313,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "10f3636f4dbd33be3c5d7bc22c9c4ea3",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.702753",
+    "_scraped_at": "2025-12-15T21:03:04.824759",
     "_opportunity_type": "open"
   },
   {
@@ -1863,10 +1335,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "2a17169147fbb00a019fbacf0f48acaf",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.702784",
+    "_scraped_at": "2025-12-15T21:03:04.824791",
     "_opportunity_type": "open"
   },
   {
@@ -1885,10 +1357,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "b4cb63cbc45cde1a19a43ec19a8e5ca9",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.702809",
+    "_scraped_at": "2025-12-15T21:03:04.824822",
     "_opportunity_type": "open"
   },
   {
@@ -1907,10 +1379,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "a0b4a2444e10892f121f7f6ae18fd59b",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.702833",
+    "_scraped_at": "2025-12-15T21:03:04.824854",
     "_opportunity_type": "open"
   },
   {
@@ -1929,10 +1401,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "c421fc2a7ea0dec165d8c4cfce2c1d08",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.702857",
+    "_scraped_at": "2025-12-15T21:03:04.824887",
     "_opportunity_type": "open"
   },
   {
@@ -1951,10 +1423,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "b43ac821a584c8c5620aa5275cffd06a",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.702881",
+    "_scraped_at": "2025-12-15T21:03:04.824920",
     "_opportunity_type": "open"
   },
   {
@@ -1973,10 +1445,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "a9fdf08ab7a95dfbf20aaa0e7dcab89f",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.702905",
+    "_scraped_at": "2025-12-15T21:03:04.824952",
     "_opportunity_type": "open"
   },
   {
@@ -1995,10 +1467,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "40fe065c72b6b6830b48cebb9d53ed1c",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.702929",
+    "_scraped_at": "2025-12-15T21:03:04.824984",
     "_opportunity_type": "open"
   },
   {
@@ -2017,10 +1489,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "ecdfb73cb18546ed618b8443de25d072",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.702955",
+    "_scraped_at": "2025-12-15T21:03:04.825016",
     "_opportunity_type": "open"
   },
   {
@@ -2039,10 +1511,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "c64f1db169fddc556026713edeaf25a1",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.702979",
+    "_scraped_at": "2025-12-15T21:03:04.825049",
     "_opportunity_type": "open"
   },
   {
@@ -2061,10 +1533,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "9b35f34c722e3a772972fe6b2fa59fe0",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703004",
+    "_scraped_at": "2025-12-15T21:03:04.825080",
     "_opportunity_type": "open"
   },
   {
@@ -2083,10 +1555,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "7d6579d4887a39f00d72e3fc6c037ac2",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703028",
+    "_scraped_at": "2025-12-15T21:03:04.825112",
     "_opportunity_type": "open"
   },
   {
@@ -2105,10 +1577,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "00da2050737a287ef9cd6f0654893dd7",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703052",
+    "_scraped_at": "2025-12-15T21:03:04.825146",
     "_opportunity_type": "open"
   },
   {
@@ -2127,10 +1599,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "73f2c8c8a27f8387e4ba735b72c9f745",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703076",
+    "_scraped_at": "2025-12-15T21:03:04.825179",
     "_opportunity_type": "open"
   },
   {
@@ -2149,10 +1621,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "1a7f6f3de8425c08b88aae2a5d2e9243",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703100",
+    "_scraped_at": "2025-12-15T21:03:04.825211",
     "_opportunity_type": "open"
   },
   {
@@ -2171,10 +1643,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "4636bb29e5d5d1671ff1eb1fb84be36d",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703124",
+    "_scraped_at": "2025-12-15T21:03:04.825246",
     "_opportunity_type": "open"
   },
   {
@@ -2193,10 +1665,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "e004cf48592a93278b767904454f484e",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703147",
+    "_scraped_at": "2025-12-15T21:03:04.825279",
     "_opportunity_type": "open"
   },
   {
@@ -2215,10 +1687,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "7888a00e8a66ff1b4b56cd58929df354",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703171",
+    "_scraped_at": "2025-12-15T21:03:04.825312",
     "_opportunity_type": "open"
   },
   {
@@ -2237,10 +1709,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "e4a88f0975044bfeb9cdec551f147245",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703195",
+    "_scraped_at": "2025-12-15T21:03:04.825346",
     "_opportunity_type": "open"
   },
   {
@@ -2259,10 +1731,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "bd60412398dcaf3911b9a3c61659ca29",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703219",
+    "_scraped_at": "2025-12-15T21:03:04.825378",
     "_opportunity_type": "open"
   },
   {
@@ -2281,10 +1753,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "0b08857490d2aeebf75033de793b5bfb",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703244",
+    "_scraped_at": "2025-12-15T21:03:04.825412",
     "_opportunity_type": "open"
   },
   {
@@ -2303,10 +1775,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "9b38fae50cea5cba81b78e47f9163b8f",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703268",
+    "_scraped_at": "2025-12-15T21:03:04.825444",
     "_opportunity_type": "open"
   },
   {
@@ -2325,10 +1797,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "d69351ba5e6caf15ab1503ff6db0bc5c",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703292",
+    "_scraped_at": "2025-12-15T21:03:04.825479",
     "_opportunity_type": "open"
   },
   {
@@ -2347,10 +1819,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "ccf35211e04673f897c4c317a0501933",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703316",
+    "_scraped_at": "2025-12-15T21:03:04.825511",
     "_opportunity_type": "open"
   },
   {
@@ -2369,10 +1841,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "fbb9b6801d20aa7bfa1749dde3a951fb",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703340",
+    "_scraped_at": "2025-12-15T21:03:04.825543",
     "_opportunity_type": "open"
   },
   {
@@ -2391,10 +1863,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "37867a5322e8ceb589f7bb2aed81ba03",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703364",
+    "_scraped_at": "2025-12-15T21:03:04.825577",
     "_opportunity_type": "open"
   },
   {
@@ -2413,10 +1885,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "e2bc8dfd1802ad7b41292f33661e3433",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703389",
+    "_scraped_at": "2025-12-15T21:03:04.825609",
     "_opportunity_type": "open"
   },
   {
@@ -2435,10 +1907,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "ac8325f7990da5b0717655818137a1c7",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703411",
+    "_scraped_at": "2025-12-15T21:03:04.825642",
     "_opportunity_type": "open"
   },
   {
@@ -2457,10 +1929,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "c8fea4def342545bfc9c513776ce8b23",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703433",
+    "_scraped_at": "2025-12-15T21:03:04.825679",
     "_opportunity_type": "open"
   },
   {
@@ -2479,10 +1951,142 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "524e688eefd3bea806c26eafb2a6a940",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703455",
+    "_scraped_at": "2025-12-15T21:03:04.825711",
+    "_opportunity_type": "open"
+  },
+  {
+    "organization_name": "Dallas Area Rapid Transit",
+    "bidding_id": "2091829",
+    "opportunity_name": "Lot Scrubbers and Sweeper",
+    "description": "Lot Scrubbers and Sweeper",
+    "application_instructions": {
+      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
+      "method": "Submit proposal through Bonfire Hub portal"
+    },
+    "deadline": {
+      "raw": "2025-12-18 20:00:00",
+      "iso_format": "2025-12-18T20:00:00",
+      "readable": "December 18, 2025 at 08:00 PM",
+      "has_passed": false
+    },
+    "status": "Open",
+    "days_remaining": 2,
+    "_document_id": "9738c8746796caac70ea4ad8d869d29b",
+    "_source_url": "https://dart.bonfirehub.com",
+    "_scraped_at": "2025-12-15T21:03:04.825743",
+    "_opportunity_type": "open"
+  },
+  {
+    "organization_name": "Dallas Area Rapid Transit",
+    "bidding_id": "2096292",
+    "opportunity_name": "BELT LAP DUAL SENS,ERL LAP,BLK,LH - REF 2096292",
+    "description": "BELT LAP DUAL SENS,ERL LAP,BLK,LH - REF 2096292",
+    "application_instructions": {
+      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
+      "method": "Submit proposal through Bonfire Hub portal"
+    },
+    "deadline": {
+      "raw": "2025-12-18 20:00:00",
+      "iso_format": "2025-12-18T20:00:00",
+      "readable": "December 18, 2025 at 08:00 PM",
+      "has_passed": false
+    },
+    "status": "Open",
+    "days_remaining": 2,
+    "_document_id": "f6413d2984ed902d2eef276ed60dbb89",
+    "_source_url": "https://dart.bonfirehub.com",
+    "_scraped_at": "2025-12-15T21:03:04.825775",
+    "_opportunity_type": "open"
+  },
+  {
+    "organization_name": "Dallas Area Rapid Transit",
+    "bidding_id": "2096297",
+    "opportunity_name": "TIE CABLE MOUNT SCREW TIES-PLASTIC 11 1/4\" LENGTH #10 SCREW (PKG OF 100) - REF 2096297",
+    "description": "TIE CABLE MOUNT SCREW TIES-PLASTIC 11 1/4\" LENGTH #10 SCREW (PKG OF 100) - REF 2096297",
+    "application_instructions": {
+      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
+      "method": "Submit proposal through Bonfire Hub portal"
+    },
+    "deadline": {
+      "raw": "2025-12-18 20:00:00",
+      "iso_format": "2025-12-18T20:00:00",
+      "readable": "December 18, 2025 at 08:00 PM",
+      "has_passed": false
+    },
+    "status": "Open",
+    "days_remaining": 2,
+    "_document_id": "afee41d596d704bec4591df170148bbb",
+    "_source_url": "https://dart.bonfirehub.com",
+    "_scraped_at": "2025-12-15T21:03:04.825807",
+    "_opportunity_type": "open"
+  },
+  {
+    "organization_name": "Dallas Area Rapid Transit",
+    "bidding_id": "2096298",
+    "opportunity_name": "TIE CABLE 5\" 40LB GREEN (PKG OF 100) - REF 2096298",
+    "description": "TIE CABLE 5\" 40LB GREEN (PKG OF 100) - REF 2096298",
+    "application_instructions": {
+      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
+      "method": "Submit proposal through Bonfire Hub portal"
+    },
+    "deadline": {
+      "raw": "2025-12-18 20:00:00",
+      "iso_format": "2025-12-18T20:00:00",
+      "readable": "December 18, 2025 at 08:00 PM",
+      "has_passed": false
+    },
+    "status": "Open",
+    "days_remaining": 2,
+    "_document_id": "e52a115d1f73682fb25ec9fa0c42b832",
+    "_source_url": "https://dart.bonfirehub.com",
+    "_scraped_at": "2025-12-15T21:03:04.825839",
+    "_opportunity_type": "open"
+  },
+  {
+    "organization_name": "Dallas Area Rapid Transit",
+    "bidding_id": "2096299",
+    "opportunity_name": "FUSE,7.5 AMP,32V,ATM (PKG OF 5) - REF 2096299",
+    "description": "FUSE,7.5 AMP,32V,ATM (PKG OF 5) - REF 2096299",
+    "application_instructions": {
+      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
+      "method": "Submit proposal through Bonfire Hub portal"
+    },
+    "deadline": {
+      "raw": "2025-12-18 20:00:00",
+      "iso_format": "2025-12-18T20:00:00",
+      "readable": "December 18, 2025 at 08:00 PM",
+      "has_passed": false
+    },
+    "status": "Open",
+    "days_remaining": 2,
+    "_document_id": "ff8c679749751686c35a5ae59e5d4a99",
+    "_source_url": "https://dart.bonfirehub.com",
+    "_scraped_at": "2025-12-15T21:03:04.825873",
+    "_opportunity_type": "open"
+  },
+  {
+    "organization_name": "Dallas Area Rapid Transit",
+    "bidding_id": "2096302",
+    "opportunity_name": "VALVE SAFETY 200 PSI - REF 2096302",
+    "description": "VALVE SAFETY 200 PSI - REF 2096302",
+    "application_instructions": {
+      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
+      "method": "Submit proposal through Bonfire Hub portal"
+    },
+    "deadline": {
+      "raw": "2025-12-18 20:00:00",
+      "iso_format": "2025-12-18T20:00:00",
+      "readable": "December 18, 2025 at 08:00 PM",
+      "has_passed": false
+    },
+    "status": "Open",
+    "days_remaining": 2,
+    "_document_id": "6ed2f7a407d25bc94d951c2348a9dde4",
+    "_source_url": "https://dart.bonfirehub.com",
+    "_scraped_at": "2025-12-15T21:03:04.825905",
     "_opportunity_type": "open"
   },
   {
@@ -2501,10 +2105,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 6,
+    "days_remaining": 2,
     "_document_id": "dcb15def83814ab63c5c6063f4cdd2da",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703476",
+    "_scraped_at": "2025-12-15T21:03:04.825938",
     "_opportunity_type": "open"
   },
   {
@@ -2523,10 +2127,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 6,
+    "days_remaining": 2,
     "_document_id": "67d533843252c5f2cf0f306e4e020fff",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703497",
+    "_scraped_at": "2025-12-15T21:03:04.825973",
     "_opportunity_type": "open"
   },
   {
@@ -2545,10 +2149,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 6,
+    "days_remaining": 2,
     "_document_id": "0979fcb659b2cbb92452832b9c11e130",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703519",
+    "_scraped_at": "2025-12-15T21:03:04.826006",
     "_opportunity_type": "open"
   },
   {
@@ -2567,10 +2171,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 6,
+    "days_remaining": 2,
     "_document_id": "d72a89a93abc1fd5cf868e94385f428c",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703540",
+    "_scraped_at": "2025-12-15T21:03:04.826038",
     "_opportunity_type": "open"
   },
   {
@@ -2589,10 +2193,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 6,
+    "days_remaining": 2,
     "_document_id": "cd0de6a918aade65574c995ee3553c4e",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703561",
+    "_scraped_at": "2025-12-15T21:03:04.826069",
     "_opportunity_type": "open"
   },
   {
@@ -2611,10 +2215,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 6,
+    "days_remaining": 2,
     "_document_id": "095a2ce1d5e8e48fbec5e9909d626a84",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703614",
+    "_scraped_at": "2025-12-15T21:03:04.826103",
     "_opportunity_type": "open"
   },
   {
@@ -2633,10 +2237,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 6,
+    "days_remaining": 2,
     "_document_id": "8d79239c1c790edc9b639111992e028f",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703638",
+    "_scraped_at": "2025-12-15T21:03:04.826135",
     "_opportunity_type": "open"
   },
   {
@@ -2655,10 +2259,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 6,
+    "days_remaining": 2,
     "_document_id": "5d42372553b52900179ee5eb052f7c57",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703660",
+    "_scraped_at": "2025-12-15T21:03:04.826168",
     "_opportunity_type": "open"
   },
   {
@@ -2677,10 +2281,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 6,
+    "days_remaining": 2,
     "_document_id": "799c4bcdae5be32f411ce1e729f0baec",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703681",
+    "_scraped_at": "2025-12-15T21:03:04.826200",
     "_opportunity_type": "open"
   },
   {
@@ -2699,10 +2303,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 6,
+    "days_remaining": 2,
     "_document_id": "6dc3c111fc2d151a4cd9437787788b91",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703703",
+    "_scraped_at": "2025-12-15T21:03:04.826233",
     "_opportunity_type": "open"
   },
   {
@@ -2721,10 +2325,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 6,
+    "days_remaining": 2,
     "_document_id": "1303dd388b17a76c1dd4fb3927881d8d",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703724",
+    "_scraped_at": "2025-12-15T21:03:04.826266",
     "_opportunity_type": "open"
   },
   {
@@ -2743,10 +2347,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 6,
+    "days_remaining": 2,
     "_document_id": "12b0ef7893e97282147950d66cdc2f2c",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703745",
+    "_scraped_at": "2025-12-15T21:03:04.826298",
     "_opportunity_type": "open"
   },
   {
@@ -2765,10 +2369,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 6,
+    "days_remaining": 2,
     "_document_id": "1ccf508ebb5c9f86ebd7e32722d02e85",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703766",
+    "_scraped_at": "2025-12-15T21:03:04.826332",
     "_opportunity_type": "open"
   },
   {
@@ -2787,10 +2391,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 6,
+    "days_remaining": 2,
     "_document_id": "245b27e1125d378c105f9dd327a0d371",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703788",
+    "_scraped_at": "2025-12-15T21:03:04.826364",
     "_opportunity_type": "open"
   },
   {
@@ -2809,10 +2413,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 6,
+    "days_remaining": 2,
     "_document_id": "d7f22878d355575a5eee5f2e8a8605dd",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703808",
+    "_scraped_at": "2025-12-15T21:03:04.826396",
     "_opportunity_type": "open"
   },
   {
@@ -2831,10 +2435,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 6,
+    "days_remaining": 2,
     "_document_id": "05b4673afb0950aa71c1e934b1a07fe0",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703829",
+    "_scraped_at": "2025-12-15T21:03:04.826428",
     "_opportunity_type": "open"
   },
   {
@@ -2853,10 +2457,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 6,
+    "days_remaining": 2,
     "_document_id": "9fabd331f07d5704dcb4a30f91f2c04e",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703854",
+    "_scraped_at": "2025-12-15T21:03:04.826460",
     "_opportunity_type": "open"
   },
   {
@@ -2875,10 +2479,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 6,
+    "days_remaining": 2,
     "_document_id": "2a9baa1ab215901b834b3c91a5a3f1a4",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703878",
+    "_scraped_at": "2025-12-15T21:03:04.826492",
     "_opportunity_type": "open"
   },
   {
@@ -2897,10 +2501,274 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 6,
+    "days_remaining": 2,
     "_document_id": "2c1c8456243f0456102819fa599d5ac4",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703903",
+    "_scraped_at": "2025-12-15T21:03:04.826524",
+    "_opportunity_type": "open"
+  },
+  {
+    "organization_name": "Dallas Area Rapid Transit",
+    "bidding_id": "2097075",
+    "opportunity_name": "LEVER,UNLOCKING,OPERATOR,DOOR, RIGHT-HAND | 2097075",
+    "description": "LEVER,UNLOCKING,OPERATOR,DOOR, RIGHT-HAND | 2097075",
+    "application_instructions": {
+      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
+      "method": "Submit proposal through Bonfire Hub portal"
+    },
+    "deadline": {
+      "raw": "2025-12-18 20:00:00",
+      "iso_format": "2025-12-18T20:00:00",
+      "readable": "December 18, 2025 at 08:00 PM",
+      "has_passed": false
+    },
+    "status": "Open",
+    "days_remaining": 2,
+    "_document_id": "ce32e08f9c3fad38c4f7e8b8b0fa1dc8",
+    "_source_url": "https://dart.bonfirehub.com",
+    "_scraped_at": "2025-12-15T21:03:04.826556",
+    "_opportunity_type": "open"
+  },
+  {
+    "organization_name": "Dallas Area Rapid Transit",
+    "bidding_id": "2097050",
+    "opportunity_name": "PUTTY,MTL. GLAZE, POLYESTER, BODY FILLING, 30 OZ.CONTAINER | 2097050",
+    "description": "PUTTY,MTL. GLAZE, POLYESTER, BODY FILLING, 30 OZ.CONTAINER | 2097050",
+    "application_instructions": {
+      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
+      "method": "Submit proposal through Bonfire Hub portal"
+    },
+    "deadline": {
+      "raw": "2025-12-18 20:00:00",
+      "iso_format": "2025-12-18T20:00:00",
+      "readable": "December 18, 2025 at 08:00 PM",
+      "has_passed": false
+    },
+    "status": "Open",
+    "days_remaining": 2,
+    "_document_id": "0c4846e2c94b4db7a902711cf300712a",
+    "_source_url": "https://dart.bonfirehub.com",
+    "_scraped_at": "2025-12-15T21:03:04.826588",
+    "_opportunity_type": "open"
+  },
+  {
+    "organization_name": "Dallas Area Rapid Transit",
+    "bidding_id": "2097058",
+    "opportunity_name": "FILTER,AIR,HVAC,24\"\" X 24\"\" X 2, PLEATED, TYPE 'Z' - Case of 12 | 2097058",
+    "description": "FILTER,AIR,HVAC,24\"\" X 24\"\" X 2, PLEATED, TYPE 'Z' - Case of 12 | 2097058",
+    "application_instructions": {
+      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
+      "method": "Submit proposal through Bonfire Hub portal"
+    },
+    "deadline": {
+      "raw": "2025-12-18 20:00:00",
+      "iso_format": "2025-12-18T20:00:00",
+      "readable": "December 18, 2025 at 08:00 PM",
+      "has_passed": false
+    },
+    "status": "Open",
+    "days_remaining": 2,
+    "_document_id": "9d1b97312fce2e8b63949f48d90afe44",
+    "_source_url": "https://dart.bonfirehub.com",
+    "_scraped_at": "2025-12-15T21:03:04.826619",
+    "_opportunity_type": "open"
+  },
+  {
+    "organization_name": "Dallas Area Rapid Transit",
+    "bidding_id": "2097063",
+    "opportunity_name": "CLOSER,DOOR,SERIES #4400/  SILVER | 2097063",
+    "description": "CLOSER,DOOR,SERIES #4400/  SILVER | 2097063",
+    "application_instructions": {
+      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
+      "method": "Submit proposal through Bonfire Hub portal"
+    },
+    "deadline": {
+      "raw": "2025-12-18 20:00:00",
+      "iso_format": "2025-12-18T20:00:00",
+      "readable": "December 18, 2025 at 08:00 PM",
+      "has_passed": false
+    },
+    "status": "Open",
+    "days_remaining": 2,
+    "_document_id": "18b3bce71aad60b513997b509a7de8a7",
+    "_source_url": "https://dart.bonfirehub.com",
+    "_scraped_at": "2025-12-15T21:03:04.826653",
+    "_opportunity_type": "open"
+  },
+  {
+    "organization_name": "Dallas Area Rapid Transit",
+    "bidding_id": "2097064",
+    "opportunity_name": "CLOSER,DOOR,SERIES #160 | 2097064",
+    "description": "CLOSER,DOOR,SERIES #160 | 2097064",
+    "application_instructions": {
+      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
+      "method": "Submit proposal through Bonfire Hub portal"
+    },
+    "deadline": {
+      "raw": "2025-12-18 20:00:00",
+      "iso_format": "2025-12-18T20:00:00",
+      "readable": "December 18, 2025 at 08:00 PM",
+      "has_passed": false
+    },
+    "status": "Open",
+    "days_remaining": 2,
+    "_document_id": "0cee41beb036b8a21720b3009b03c7c2",
+    "_source_url": "https://dart.bonfirehub.com",
+    "_scraped_at": "2025-12-15T21:03:04.826690",
+    "_opportunity_type": "open"
+  },
+  {
+    "organization_name": "Dallas Area Rapid Transit",
+    "bidding_id": "2097066",
+    "opportunity_name": "PUTTY,MTL. GLAZE, POLYESTER, BODY FILLING, 30 OZ.CONTAINER | 2097066",
+    "description": "PUTTY,MTL. GLAZE, POLYESTER, BODY FILLING, 30 OZ.CONTAINER | 2097066",
+    "application_instructions": {
+      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
+      "method": "Submit proposal through Bonfire Hub portal"
+    },
+    "deadline": {
+      "raw": "2025-12-18 20:00:00",
+      "iso_format": "2025-12-18T20:00:00",
+      "readable": "December 18, 2025 at 08:00 PM",
+      "has_passed": false
+    },
+    "status": "Open",
+    "days_remaining": 2,
+    "_document_id": "3dc09533e44b1ada936c31cec65d4e59",
+    "_source_url": "https://dart.bonfirehub.com",
+    "_scraped_at": "2025-12-15T21:03:04.826722",
+    "_opportunity_type": "open"
+  },
+  {
+    "organization_name": "Dallas Area Rapid Transit",
+    "bidding_id": "2097067",
+    "opportunity_name": "CUP, QUART , MIXING   32 FL OZ. .947L, | 2097067",
+    "description": "CUP, QUART , MIXING   32 FL OZ. .947L, | 2097067",
+    "application_instructions": {
+      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
+      "method": "Submit proposal through Bonfire Hub portal"
+    },
+    "deadline": {
+      "raw": "2025-12-18 20:00:00",
+      "iso_format": "2025-12-18T20:00:00",
+      "readable": "December 18, 2025 at 08:00 PM",
+      "has_passed": false
+    },
+    "status": "Open",
+    "days_remaining": 2,
+    "_document_id": "884767271bd88f5ae96692806deb5182",
+    "_source_url": "https://dart.bonfirehub.com",
+    "_scraped_at": "2025-12-15T21:03:04.826754",
+    "_opportunity_type": "open"
+  },
+  {
+    "organization_name": "Dallas Area Rapid Transit",
+    "bidding_id": "2097070",
+    "opportunity_name": "PANTOGRAPH CARBON NO-GO GAUGE | 2097070",
+    "description": "PANTOGRAPH CARBON NO-GO GAUGE | 2097070",
+    "application_instructions": {
+      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
+      "method": "Submit proposal through Bonfire Hub portal"
+    },
+    "deadline": {
+      "raw": "2025-12-18 20:00:00",
+      "iso_format": "2025-12-18T20:00:00",
+      "readable": "December 18, 2025 at 08:00 PM",
+      "has_passed": false
+    },
+    "status": "Open",
+    "days_remaining": 2,
+    "_document_id": "0ecb68b58f9a8e3adc08d22e8627aa6e",
+    "_source_url": "https://dart.bonfirehub.com",
+    "_scraped_at": "2025-12-15T21:03:04.826787",
+    "_opportunity_type": "open"
+  },
+  {
+    "organization_name": "Dallas Area Rapid Transit",
+    "bidding_id": "2097071",
+    "opportunity_name": "AIR SPRING DIAPHRAGM | 2097071",
+    "description": "AIR SPRING DIAPHRAGM | 2097071",
+    "application_instructions": {
+      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
+      "method": "Submit proposal through Bonfire Hub portal"
+    },
+    "deadline": {
+      "raw": "2025-12-18 20:00:00",
+      "iso_format": "2025-12-18T20:00:00",
+      "readable": "December 18, 2025 at 08:00 PM",
+      "has_passed": false
+    },
+    "status": "Open",
+    "days_remaining": 2,
+    "_document_id": "f494afe32387054fec5975e713889c10",
+    "_source_url": "https://dart.bonfirehub.com",
+    "_scraped_at": "2025-12-15T21:03:04.826818",
+    "_opportunity_type": "open"
+  },
+  {
+    "organization_name": "Dallas Area Rapid Transit",
+    "bidding_id": "2097073",
+    "opportunity_name": "FILTER , FRESH AIR  20\" X 12\" X 2\" | 2097073",
+    "description": "FILTER , FRESH AIR  20\" X 12\" X 2\" | 2097073",
+    "application_instructions": {
+      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
+      "method": "Submit proposal through Bonfire Hub portal"
+    },
+    "deadline": {
+      "raw": "2025-12-18 20:00:00",
+      "iso_format": "2025-12-18T20:00:00",
+      "readable": "December 18, 2025 at 08:00 PM",
+      "has_passed": false
+    },
+    "status": "Open",
+    "days_remaining": 2,
+    "_document_id": "0361d300f313500ef3092e4e942a5d78",
+    "_source_url": "https://dart.bonfirehub.com",
+    "_scraped_at": "2025-12-15T21:03:04.826850",
+    "_opportunity_type": "open"
+  },
+  {
+    "organization_name": "Dallas Area Rapid Transit",
+    "bidding_id": "2097074",
+    "opportunity_name": "SPRING,TORSION,LEFTHAND | 2097074",
+    "description": "SPRING,TORSION,LEFTHAND | 2097074",
+    "application_instructions": {
+      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
+      "method": "Submit proposal through Bonfire Hub portal"
+    },
+    "deadline": {
+      "raw": "2025-12-18 20:00:00",
+      "iso_format": "2025-12-18T20:00:00",
+      "readable": "December 18, 2025 at 08:00 PM",
+      "has_passed": false
+    },
+    "status": "Open",
+    "days_remaining": 2,
+    "_document_id": "380fcfd8b31c4885cbf547908e00a62a",
+    "_source_url": "https://dart.bonfirehub.com",
+    "_scraped_at": "2025-12-15T21:03:04.826883",
+    "_opportunity_type": "open"
+  },
+  {
+    "organization_name": "Dallas Area Rapid Transit",
+    "bidding_id": "Req #2096822",
+    "opportunity_name": "PO for Badge Reader Network Relocation",
+    "description": "PO for Badge Reader Network Relocation",
+    "application_instructions": {
+      "url": "https://dart.bonfirehub.com/portal/?tab=openOpportunities",
+      "method": "Submit proposal through Bonfire Hub portal"
+    },
+    "deadline": {
+      "raw": "2025-12-18 20:00:00",
+      "iso_format": "2025-12-18T20:00:00",
+      "readable": "December 18, 2025 at 08:00 PM",
+      "has_passed": false
+    },
+    "status": "Open",
+    "days_remaining": 2,
+    "_document_id": "db1c57d53fa0491abfb6376e0dba9966",
+    "_source_url": "https://dart.bonfirehub.com",
+    "_scraped_at": "2025-12-15T21:03:04.826915",
     "_opportunity_type": "open"
   },
   {
@@ -2919,10 +2787,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 7,
+    "days_remaining": 3,
     "_document_id": "08bcbdb1bc44f180fdc6233e0621aba3",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703929",
+    "_scraped_at": "2025-12-15T21:03:04.826948",
     "_opportunity_type": "open"
   },
   {
@@ -2941,10 +2809,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 18,
+    "days_remaining": 14,
     "_document_id": "a0e75adbca295a653f2c7b4eefa9ba52",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703952",
+    "_scraped_at": "2025-12-15T21:03:04.826980",
     "_opportunity_type": "open"
   },
   {
@@ -2963,10 +2831,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 25,
+    "days_remaining": 21,
     "_document_id": "600610481a9f2cf548a9cb01e582131e",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.703977",
+    "_scraped_at": "2025-12-15T21:03:04.827014",
     "_opportunity_type": "open"
   },
   {
@@ -2985,10 +2853,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 33,
+    "days_remaining": 29,
     "_document_id": "b4652dbeb6d94ec6c725b98a9ab059ec",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.704002",
+    "_scraped_at": "2025-12-15T21:03:04.827049",
     "_opportunity_type": "open"
   },
   {
@@ -3007,10 +2875,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 47,
+    "days_remaining": 43,
     "_document_id": "62d9ee17b6f566877fbae2a4afc1c905",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.704026",
+    "_scraped_at": "2025-12-15T21:03:04.827081",
     "_opportunity_type": "open"
   },
   {
@@ -3029,32 +2897,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 95,
+    "days_remaining": 91,
     "_document_id": "14ac5520c7c59f7c309e4fa666c61d76",
     "_source_url": "https://dart.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.704050",
-    "_opportunity_type": "open"
-  },
-  {
-    "organization_name": "Dallas Fort Worth International Airport",
-    "bidding_id": "DFW14588",
-    "opportunity_name": "Miscellaneous Industrial Items",
-    "description": "Miscellaneous Industrial Items",
-    "application_instructions": {
-      "url": "https://dfwairport.bonfirehub.com/portal/?tab=openOpportunities",
-      "method": "Submit proposal through Bonfire Hub portal"
-    },
-    "deadline": {
-      "raw": "2025-12-11 20:00:00",
-      "iso_format": "2025-12-11T20:00:00",
-      "readable": "December 11, 2025 at 08:00 PM",
-      "has_passed": true
-    },
-    "status": "Open",
-    "days_remaining": 0,
-    "_document_id": "a2fb1a654ff2cad86d517e8e654c6ff8",
-    "_source_url": "https://dfwairport.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.704079",
+    "_scraped_at": "2025-12-15T21:03:04.827114",
     "_opportunity_type": "open"
   },
   {
@@ -3073,10 +2919,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 5,
+    "days_remaining": 1,
     "_document_id": "8b039da10662572251a18fd3f0f45727",
     "_source_url": "https://dfwairport.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.704104",
+    "_scraped_at": "2025-12-15T21:03:04.827153",
     "_opportunity_type": "open"
   },
   {
@@ -3095,10 +2941,32 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 25,
+    "days_remaining": 21,
     "_document_id": "626b9aec47f13f7ac04df91edd619eb7",
     "_source_url": "https://dfwairport.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.704129",
+    "_scraped_at": "2025-12-15T21:03:04.827185",
+    "_opportunity_type": "open"
+  },
+  {
+    "organization_name": "Dallas Fort Worth International Airport",
+    "bidding_id": "PA2014",
+    "opportunity_name": "Aviation Data Subscription",
+    "description": "Aviation Data Subscription",
+    "application_instructions": {
+      "url": "https://dfwairport.bonfirehub.com/portal/?tab=openOpportunities",
+      "method": "Submit proposal through Bonfire Hub portal"
+    },
+    "deadline": {
+      "raw": "2026-01-12 20:00:00",
+      "iso_format": "2026-01-12T20:00:00",
+      "readable": "January 12, 2026 at 08:00 PM",
+      "has_passed": false
+    },
+    "status": "Open",
+    "days_remaining": 27,
+    "_document_id": "f8e6c1998070f185dc460d6e7cd9f6d7",
+    "_source_url": "https://dfwairport.bonfirehub.com",
+    "_scraped_at": "2025-12-15T21:03:04.827217",
     "_opportunity_type": "open"
   },
   {
@@ -3117,10 +2985,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 32,
+    "days_remaining": 28,
     "_document_id": "79c204cb72abebc1fd8c9adc32b4d1d7",
     "_source_url": "https://dfwairport.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.704153",
+    "_scraped_at": "2025-12-15T21:03:04.827250",
     "_opportunity_type": "open"
   },
   {
@@ -3139,10 +3007,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 33,
+    "days_remaining": 29,
     "_document_id": "4dd8126dd7f2455b92b578d0cd1daa51",
     "_source_url": "https://dfwairport.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.704178",
+    "_scraped_at": "2025-12-15T21:03:04.827281",
     "_opportunity_type": "open"
   },
   {
@@ -3161,10 +3029,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 35,
+    "days_remaining": 31,
     "_document_id": "de398cdc9538ef423bc849ddddb222e3",
     "_source_url": "https://dfwairport.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.704202",
+    "_scraped_at": "2025-12-15T21:03:04.827313",
     "_opportunity_type": "open"
   },
   {
@@ -3183,32 +3051,54 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 38,
+    "days_remaining": 34,
     "_document_id": "e8218a462d3598c6b095fae093b66d81",
     "_source_url": "https://dfwairport.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.704227",
+    "_scraped_at": "2025-12-15T21:03:04.827348",
     "_opportunity_type": "open"
   },
   {
-    "organization_name": "Dallas Independent School District",
-    "bidding_id": "JV-208301",
-    "opportunity_name": "Information Technology Professional Services",
-    "description": "Information Technology Professional Services",
+    "organization_name": "Dallas Fort Worth International Airport",
+    "bidding_id": "PA2028",
+    "opportunity_name": "Consolidated Bussing Services",
+    "description": "Consolidated Bussing Services",
     "application_instructions": {
-      "url": "https://dallasisd.bonfirehub.com/portal/?tab=openOpportunities",
+      "url": "https://dfwairport.bonfirehub.com/portal/?tab=openOpportunities",
       "method": "Submit proposal through Bonfire Hub portal"
     },
     "deadline": {
-      "raw": "2025-12-11 20:00:00",
-      "iso_format": "2025-12-11T20:00:00",
-      "readable": "December 11, 2025 at 08:00 PM",
-      "has_passed": true
+      "raw": "2026-01-30 20:00:00",
+      "iso_format": "2026-01-30T20:00:00",
+      "readable": "January 30, 2026 at 08:00 PM",
+      "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 0,
-    "_document_id": "423266ab8f4f659abc33a9a320b4bafe",
-    "_source_url": "https://dallasisd.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.704253",
+    "days_remaining": 45,
+    "_document_id": "6c0261833578b9fdf55ade75bdbc4dac",
+    "_source_url": "https://dfwairport.bonfirehub.com",
+    "_scraped_at": "2025-12-15T21:03:04.827380",
+    "_opportunity_type": "open"
+  },
+  {
+    "organization_name": "Dallas Fort Worth International Airport",
+    "bidding_id": "RFP121125",
+    "opportunity_name": "Multi Terminal Concessions Opportunity",
+    "description": "Multi Terminal Concessions Opportunity",
+    "application_instructions": {
+      "url": "https://dfwairport.bonfirehub.com/portal/?tab=openOpportunities",
+      "method": "Submit proposal through Bonfire Hub portal"
+    },
+    "deadline": {
+      "raw": "2026-02-02 20:00:00",
+      "iso_format": "2026-02-02T20:00:00",
+      "readable": "February 02, 2026 at 08:00 PM",
+      "has_passed": false
+    },
+    "status": "Open",
+    "days_remaining": 48,
+    "_document_id": "ddd7397ea9a441f345c69d06880e1423",
+    "_source_url": "https://dfwairport.bonfirehub.com",
+    "_scraped_at": "2025-12-15T21:03:04.827412",
     "_opportunity_type": "open"
   },
   {
@@ -3227,10 +3117,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 6,
+    "days_remaining": 2,
     "_document_id": "d998bbfe9769998d766e38f152009064",
     "_source_url": "https://dallasisd.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.704278",
+    "_scraped_at": "2025-12-15T21:03:04.827446",
     "_opportunity_type": "open"
   },
   {
@@ -3249,10 +3139,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 6,
+    "days_remaining": 2,
     "_document_id": "58c0963a28e645c89f3fbb137b74145c",
     "_source_url": "https://dallasisd.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.704302",
+    "_scraped_at": "2025-12-15T21:03:04.827479",
     "_opportunity_type": "open"
   },
   {
@@ -3271,10 +3161,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 6,
+    "days_remaining": 2,
     "_document_id": "6779379ae4bb472ff9bf59ad24f2302f",
     "_source_url": "https://dallasisd.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.704327",
+    "_scraped_at": "2025-12-15T21:03:04.827512",
     "_opportunity_type": "open"
   },
   {
@@ -3293,10 +3183,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 27,
+    "days_remaining": 23,
     "_document_id": "8b01006d12b675e1574b04662c8fca41",
     "_source_url": "https://dallasisd.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.704353",
+    "_scraped_at": "2025-12-15T21:03:04.827544",
     "_opportunity_type": "open"
   },
   {
@@ -3315,10 +3205,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 27,
+    "days_remaining": 23,
     "_document_id": "7617c659fcb37bffd92412d807303cfb",
     "_source_url": "https://dallasisd.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.704378",
+    "_scraped_at": "2025-12-15T21:03:04.827576",
     "_opportunity_type": "open"
   },
   {
@@ -3337,10 +3227,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 27,
+    "days_remaining": 23,
     "_document_id": "c4f549296e2410eb4f85044d28ff20aa",
     "_source_url": "https://dallasisd.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.704404",
+    "_scraped_at": "2025-12-15T21:03:04.827609",
     "_opportunity_type": "open"
   },
   {
@@ -3359,10 +3249,32 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 41,
+    "days_remaining": 37,
     "_document_id": "bb006e8bf7a3cde97717d9e186601390",
     "_source_url": "https://dallasisd.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.704428",
+    "_scraped_at": "2025-12-15T21:03:04.827641",
+    "_opportunity_type": "open"
+  },
+  {
+    "organization_name": "Gallup-McKinley County Schools",
+    "bidding_id": "ITB-2026-14GH",
+    "opportunity_name": "Bus Repairs and Services",
+    "description": "Bus Repairs and Services",
+    "application_instructions": {
+      "url": "https://gmcs.bonfirehub.com/portal/?tab=openOpportunities",
+      "method": "Submit proposal through Bonfire Hub portal"
+    },
+    "deadline": {
+      "raw": "2026-01-02 21:00:00",
+      "iso_format": "2026-01-02T21:00:00",
+      "readable": "January 02, 2026 at 09:00 PM",
+      "has_passed": false
+    },
+    "status": "Open",
+    "days_remaining": 17,
+    "_document_id": "4f46c1581a7d95598f334081ea2554f3",
+    "_source_url": "https://gmcs.bonfirehub.com",
+    "_scraped_at": "2025-12-15T21:03:04.827681",
     "_opportunity_type": "open"
   },
   {
@@ -3381,10 +3293,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 6,
+    "days_remaining": 2,
     "_document_id": "7cf524fcd1656406c0303f21b9a45c22",
     "_source_url": "https://galvestoncountytx.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.704455",
+    "_scraped_at": "2025-12-15T21:03:04.827722",
     "_opportunity_type": "open"
   },
   {
@@ -3403,10 +3315,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 6,
+    "days_remaining": 2,
     "_document_id": "ea991936ae49bfeae247605200231279",
     "_source_url": "https://galvestoncountytx.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.704479",
+    "_scraped_at": "2025-12-15T21:03:04.827778",
     "_opportunity_type": "open"
   },
   {
@@ -3425,10 +3337,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 7,
+    "days_remaining": 3,
     "_document_id": "03fe4dd965d5cb60cb057d2582cf1af4",
     "_source_url": "https://galvestoncountytx.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.704504",
+    "_scraped_at": "2025-12-15T21:03:04.827834",
     "_opportunity_type": "open"
   },
   {
@@ -3447,10 +3359,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 24,
+    "days_remaining": 20,
     "_document_id": "7f52a16a470c80ca0047a4816b6c8f99",
     "_source_url": "https://galvestoncountytx.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.704529",
+    "_scraped_at": "2025-12-15T21:03:04.827894",
     "_opportunity_type": "open"
   },
   {
@@ -3469,10 +3381,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 25,
+    "days_remaining": 21,
     "_document_id": "4e3d8903ff124011ce0ec594f2c3c009",
     "_source_url": "https://galvestoncountytx.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.704552",
+    "_scraped_at": "2025-12-15T21:03:04.827933",
     "_opportunity_type": "open"
   },
   {
@@ -3491,10 +3403,32 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 4,
+    "days_remaining": 0,
     "_document_id": "13c5c6c53d2f797c4f41a0657c24cb89",
     "_source_url": "https://georgebrown.bonfirehub.ca",
-    "_scraped_at": "2025-12-12T14:02:05.704592",
+    "_scraped_at": "2025-12-15T21:03:04.827970",
+    "_opportunity_type": "open"
+  },
+  {
+    "organization_name": "George Brown College",
+    "bidding_id": "RFQ-FM-2025-059",
+    "opportunity_name": "Main Doors Replacement - 200 King St",
+    "description": "Main Doors Replacement - 200 King St",
+    "application_instructions": {
+      "url": "https://georgebrown.bonfirehub.ca/portal/?tab=openOpportunities",
+      "method": "Submit proposal through Bonfire Hub portal"
+    },
+    "deadline": {
+      "raw": "2026-01-22 19:00:00",
+      "iso_format": "2026-01-22T19:00:00",
+      "readable": "January 22, 2026 at 07:00 PM",
+      "has_passed": false
+    },
+    "status": "Open",
+    "days_remaining": 37,
+    "_document_id": "463dee84b7fbcad5c626dacaab90245a",
+    "_source_url": "https://georgebrown.bonfirehub.ca",
+    "_scraped_at": "2025-12-15T21:03:04.828003",
     "_opportunity_type": "open"
   },
   {
@@ -3513,10 +3447,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 46,
+    "days_remaining": 42,
     "_document_id": "741704b4562f3fdaca13e5b0ddf9ea88",
     "_source_url": "https://georgebrown.bonfirehub.ca",
-    "_scraped_at": "2025-12-12T14:02:05.704619",
+    "_scraped_at": "2025-12-15T21:03:04.828036",
     "_opportunity_type": "open"
   },
   {
@@ -3535,10 +3469,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 11,
+    "days_remaining": 7,
     "_document_id": "b63d98df55f86b47706371a10480e264",
     "_source_url": "https://jacksongov.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.704655",
+    "_scraped_at": "2025-12-15T21:03:04.828070",
     "_opportunity_type": "open"
   },
   {
@@ -3557,32 +3491,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 11,
+    "days_remaining": 7,
     "_document_id": "b6d3694afc1c839cf63105a9d2e909cf",
     "_source_url": "https://jacksongov.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.704679",
-    "_opportunity_type": "open"
-  },
-  {
-    "organization_name": "Jefferson City, MO",
-    "bidding_id": "IFB4349-11/25",
-    "opportunity_name": "Repair and Paint Ellis Porter Riverside Pool",
-    "description": "Repair and Paint Ellis Porter Riverside Pool",
-    "application_instructions": {
-      "url": "https://jeffersoncitymo.bonfirehub.com/portal/?tab=openOpportunities",
-      "method": "Submit proposal through Bonfire Hub portal"
-    },
-    "deadline": {
-      "raw": "2025-12-11 19:30:00",
-      "iso_format": "2025-12-11T19:30:00",
-      "readable": "December 11, 2025 at 07:30 PM",
-      "has_passed": true
-    },
-    "status": "Open",
-    "days_remaining": 0,
-    "_document_id": "02c2c3a633d427da168398edf22406a4",
-    "_source_url": "https://jeffersoncitymo.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.704705",
+    "_scraped_at": "2025-12-15T21:03:04.828102",
     "_opportunity_type": "open"
   },
   {
@@ -3601,10 +3513,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 4,
+    "days_remaining": 0,
     "_document_id": "221cd224b5b35ea2d3e2e84339a1625e",
     "_source_url": "https://jeffersoncitymo.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.704729",
+    "_scraped_at": "2025-12-15T21:03:04.828139",
     "_opportunity_type": "open"
   },
   {
@@ -3623,10 +3535,32 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 4,
+    "days_remaining": 0,
     "_document_id": "49a158b9932c1d5b1d6071a02bc2eeed",
     "_source_url": "https://jeffersoncitymo.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.704753",
+    "_scraped_at": "2025-12-15T21:03:04.828177",
+    "_opportunity_type": "open"
+  },
+  {
+    "organization_name": "Jefferson City, MO",
+    "bidding_id": "IFB4353-12/25",
+    "opportunity_name": "Yard Waste Removal - One Time",
+    "description": "Yard Waste Removal - One Time",
+    "application_instructions": {
+      "url": "https://jeffersoncitymo.bonfirehub.com/portal/?tab=openOpportunities",
+      "method": "Submit proposal through Bonfire Hub portal"
+    },
+    "deadline": {
+      "raw": "2025-12-30 19:30:00",
+      "iso_format": "2025-12-30T19:30:00",
+      "readable": "December 30, 2025 at 07:30 PM",
+      "has_passed": false
+    },
+    "status": "Open",
+    "days_remaining": 14,
+    "_document_id": "ea44e9b210287dee790d5f9cee7fd8f0",
+    "_source_url": "https://jeffersoncitymo.bonfirehub.com",
+    "_scraped_at": "2025-12-15T21:03:04.828210",
     "_opportunity_type": "open"
   },
   {
@@ -3645,10 +3579,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 25,
+    "days_remaining": 21,
     "_document_id": "f9089b4ccbbc9a685bd32a4936c63630",
     "_source_url": "https://jeffersoncitymo.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.704777",
+    "_scraped_at": "2025-12-15T21:03:04.828243",
     "_opportunity_type": "open"
   },
   {
@@ -3667,10 +3601,10 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 35,
+    "days_remaining": 31,
     "_document_id": "e372d101b3f4f1f40e334728ea24a5b2",
     "_source_url": "https://lwsd.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.704804",
+    "_scraped_at": "2025-12-15T21:03:04.828279",
     "_opportunity_type": "open"
   },
   {
@@ -3689,10 +3623,32 @@
       "has_passed": false
     },
     "status": "Open",
-    "days_remaining": 39,
+    "days_remaining": 35,
     "_document_id": "81d3d01d4822ed318ed2a650f87a2e4b",
     "_source_url": "https://lwsd.bonfirehub.com",
-    "_scraped_at": "2025-12-12T14:02:05.704828",
+    "_scraped_at": "2025-12-15T21:03:04.828313",
+    "_opportunity_type": "open"
+  },
+  {
+    "organization_name": "Langara College",
+    "bidding_id": "2026NRFP-04",
+    "opportunity_name": "Renovation of Nursing Department",
+    "description": "Renovation of Nursing Department",
+    "application_instructions": {
+      "url": "https://langara.bonfirehub.ca/portal/?tab=openOpportunities",
+      "method": "Submit proposal through Bonfire Hub portal"
+    },
+    "deadline": {
+      "raw": "2026-01-26 22:00:00",
+      "iso_format": "2026-01-26T22:00:00",
+      "readable": "January 26, 2026 at 10:00 PM",
+      "has_passed": false
+    },
+    "status": "Open",
+    "days_remaining": 42,
+    "_document_id": "b507129a0c6f69cb4183f74a00873dd6",
+    "_source_url": "https://langara.bonfirehub.ca",
+    "_scraped_at": "2025-12-15T21:03:04.828347",
     "_opportunity_type": "open"
   }
 ]

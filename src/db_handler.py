@@ -38,7 +38,36 @@ except ImportError:
     MONGO_COLLECTION = "opportunities"
 
 
+# ============== Database Logger Setup ==============
+# Create separate log file for database operations
+LOG_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "logs")
+os.makedirs(LOG_DIR, exist_ok=True)
+DB_LOG_FILE = os.path.join(LOG_DIR, "db_handler.log")
+
 logger = logging.getLogger("db_handler")
+logger.setLevel(logging.DEBUG)
+
+# File handler for database logs
+if not logger.handlers:
+    file_handler = logging.FileHandler(DB_LOG_FILE, encoding="utf-8")
+    file_handler.setLevel(logging.DEBUG)
+    file_handler.setFormatter(logging.Formatter(
+        "%(asctime)s %(levelname)-8s [%(name)s] %(message)s",
+        datefmt="%Y-%m-%d %H:%M:%S"
+    ))
+    logger.addHandler(file_handler)
+
+    # Console handler for immediate feedback
+    console_handler = logging.StreamHandler()
+    console_handler.setLevel(logging.INFO)
+    console_handler.setFormatter(logging.Formatter(
+        "%(asctime)s %(levelname)-8s %(message)s",
+        datefmt="%H:%M:%S"
+    ))
+    logger.addHandler(console_handler)
+
+# Suppress pymongo verbose logging
+logging.getLogger("pymongo").setLevel(logging.ERROR)
 
 
 class MongoHandler:

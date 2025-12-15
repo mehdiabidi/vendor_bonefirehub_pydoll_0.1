@@ -44,6 +44,10 @@ except ImportError:
 
 logger = logging.getLogger("main")
 
+# Suppress verbose logs from libraries
+logging.getLogger("pymongo").setLevel(logging.DEBUG)
+logging.getLogger("urllib3").setLevel(logging.DEBUG)
+
 
 def print_banner():
     """Print application banner"""

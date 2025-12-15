@@ -13,10 +13,35 @@ import re
 import os
 import asyncio
 import logging
+import shutil
+import tempfile
+import atexit
+import time
 from datetime import datetime
 from typing import Dict, List, Optional, Tuple
 
 from pydoll.browser.chromium import Chrome
+from pydoll.browser.options import ChromiumOptions
+
+
+# ============== Windows Temp Cleanup Fix ==============
+# Chrome browser creates temp files that may not be immediately released on Windows
+# This causes PermissionError during Python's exit cleanup
+def _safe_cleanup_temp_dirs():
+    """Safely cleanup browser temp directories, ignoring locked files"""
+    temp_dir = tempfile.gettempdir()
+    for item in os.listdir(temp_dir):
+        if item.startswith('tmp') and os.path.isdir(os.path.join(temp_dir, item)):
+            try:
+                path = os.path.join(temp_dir, item)
+                # Check if it looks like a browser temp dir
+                if os.path.exists(os.path.join(path, 'BrowserMetrics')):
+                    shutil.rmtree(path, ignore_errors=True)
+            except Exception:
+                pass  # Ignore cleanup errors
+
+# Register cleanup to run at exit (before Python's internal cleanup)
+atexit.register(_safe_cleanup_temp_dirs)
 
 # Import config (adjust path based on how script is run)
 import sys
@@ -66,16 +91,17 @@ def setup_logging(log_file: str = "logs/scraper.log"):
     ))
     logger.addHandler(fh)
 
-    # Console handler for important messages
+    # Console handler - only warnings and errors
     ch = logging.StreamHandler()
-    ch.setLevel(logging.INFO)
-    ch.setFormatter(logging.Formatter("%(levelname)s: %(message)s"))
+    ch.setLevel(logging.WARNING)
+    ch.setFormatter(logging.Formatter("%(message)s"))
     logger.addHandler(ch)
 
     # Suppress noisy third-party logs
-    logging.getLogger("pydoll").setLevel(logging.WARNING)
-    logging.getLogger("urllib3").setLevel(logging.WARNING)
-    logging.getLogger("asyncio").setLevel(logging.WARNING)
+    logging.getLogger("pydoll").setLevel(logging.ERROR)
+    logging.getLogger("urllib3").setLevel(logging.ERROR)
+    logging.getLogger("asyncio").setLevel(logging.ERROR)
+    logging.getLogger("pymongo").setLevel(logging.ERROR)
 
 
 def calculate_days_remaining(deadline_str: str) -> int:
@@ -131,16 +157,31 @@ class BonfireScraper:
     async def start_browser(self):
         """Initialize the browser instance"""
         logger.info("Starting browser...")
-        self.browser = Chrome()
+
+        # Configure Chrome options for Docker
+        options = ChromiumOptions()
+        if os.environ.get('DOCKER_ENV'):
+            options.add_argument('--headless=new')
+            options.add_argument('--no-sandbox')
+            options.add_argument('--disable-dev-shm-usage')
+            options.add_argument('--disable-gpu')
+            options.add_argument('--window-size=1920,1080')
+
+        self.browser = Chrome(options=options)
         self.tab = await self.browser.start()
 
     async def close_browser(self):
         """Cleanup browser resources"""
-        if self.tab:
-            await self.tab.close()
-        if self.browser:
-            await self.browser.close()
-        logger.info("Browser closed")
+        try:
+            if self.tab:
+                await self.tab.close()
+            if self.browser:
+                await self.browser.close()
+            logger.info("Browser closed")
+            # Give Chrome time to release file handles (Windows fix)
+            await asyncio.sleep(1)
+        except Exception as e:
+            logger.warning(f"Browser cleanup warning (can be ignored): {e}")
 
     async def login(self) -> bool:
         """
@@ -342,7 +383,18 @@ class BonfireScraper:
                 projects = json_data.get("payload", {}).get("projects", {})
                 opportunities = []
 
-                for proj_id, proj_data in projects.items():
+                # Handle both dict and list formats from API
+                if isinstance(projects, dict):
+                    project_items = projects.values()
+                elif isinstance(projects, list):
+                    project_items = projects
+                else:
+                    project_items = []
+
+                for proj_data in project_items:
+                    if not isinstance(proj_data, dict):
+                        continue
+
                     opp = {
                         "Status": "Open",
                         "Refference": proj_data.get("ReferenceID", ""),
@@ -406,7 +458,18 @@ class BonfireScraper:
                     "3": "Awarded"
                 }
 
-                for proj_id, proj_data in projects.items():
+                # Handle both dict and list formats from API
+                if isinstance(projects, dict):
+                    project_items = projects.values()
+                elif isinstance(projects, list):
+                    project_items = projects
+                else:
+                    project_items = []
+
+                for proj_data in project_items:
+                    if not isinstance(proj_data, dict):
+                        continue
+
                     status_id = str(proj_data.get("ProjectSubStatusID", ""))
 
                     opp = {

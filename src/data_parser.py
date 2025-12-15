@@ -27,9 +27,9 @@ logger = logging.getLogger("data_parser")
 def setup_parser_logging():
     """Configure logging for parser module"""
     if not logger.handlers:
-        logger.setLevel(logging.DEBUG)
+        logger.setLevel(logging.WARNING)
         ch = logging.StreamHandler()
-        ch.setFormatter(logging.Formatter("%(levelname)s: %(message)s"))
+        ch.setFormatter(logging.Formatter("%(message)s"))
         logger.addHandler(ch)
 
 
